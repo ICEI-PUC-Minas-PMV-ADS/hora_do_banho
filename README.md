@@ -12,7 +12,7 @@ O referido projeto trata de uma ferramenta que possibilita aos proprietários de
 
 * Crislaine
 * Eduardo Aguilar
-* Gabriel
+* Gabriel Juda de Oliveira
 * Oscar
 * Pamela Crivellari Viana
 * Patricia Freitas
