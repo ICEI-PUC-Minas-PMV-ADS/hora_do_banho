@@ -76,6 +76,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-009| O Sistema deve fornecer ao cliente uma mensagem de confirmação do agendamento por SMS. | BAIXA |
 |RF-010| O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e/ou a confirmar. | ALTA | 
 |RF-011| O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados. | ALTA | 
+|RF-012| O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente. | ALTA |
  
 ### Requisitos não Funcionais
 
