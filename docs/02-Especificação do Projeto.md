@@ -9,21 +9,21 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |**Oscar Gabriel Braga**|||
 |:----------------------------------------------------------------------------------------------------------------:|:---:|:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%201.jpg" width="150">|<p>**Idade**: 42 anos</p> <p>**Ocupação**: Enfermeiro</p>|**Aplicativos**: Instagram, Facebook, Youtube |
-|<p>**Motivações**: Cuidar de pessoas, família</p> |**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
+|**Motivações**: Cuidar de pessoas, família.|**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
 
 |**Pamela Viana**|||
 |:---:|:---:|:---:|
-|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%202.jpg" width="150">|**Idade**: 34 anos **Ocupação**: Médica Veterinária|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%202.jpg" width="150">|<p>**Idade**: 34 anos</p> <p>**Ocupação**: Médica Veterinária</p>|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
 |**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
 
 |**João da Silva**|||
 |:---:|:---:|:---:|
-|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%204.jpg" width="150">|**Idade**: 38 anos **Ocupação**:  Proprietário do Pet Shop Auquimia|**Aplicativos**: Instagram e Facebook.  |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%204.jpg" width="150">|<p>**Idade**: 38 anos</p> <p>**Ocupação**:  Proprietário do Pet Shop Auquimia</p>|**Aplicativos**: Instagram e Facebook.  |
 |**Motivações**: Aumentar o faturamento de seu negócio.  |**Frustrações**: Não conseguir atingir todos os seus clientes potenciais.  |**Hobbies**: Estudar, ler, assistir séries e viajar.|
 
 |**Joana Oliveira**|||
 |:---:|:---:|:---:|
-|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%203.jpg" width="150">|**Idade**: 45 anos **Ocupação**:  Proprietário do Pet 4 Patas|**Aplicativos**: Instagram e Youtube.  |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%203.jpg" width="150">|<p>**Idade**: 45 anos</p> <p>**Ocupação**:  Proprietário do Pet 4 Patas</p>|**Aplicativos**: Instagram e Youtube.  |
 |**Motivações**: Expandir o negócio e potencializar a divulgação dos serviços prestados.  |**Frustrações**: Loja não fica em um ponto com boa visibilidade.   |**Hobbies**: Praticar esportes|
 
 > **Links Úteis**:
