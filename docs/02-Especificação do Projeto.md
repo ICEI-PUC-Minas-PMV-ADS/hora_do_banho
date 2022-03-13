@@ -8,7 +8,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |**Oscar Gabriel Braga**|||
 |---------|------------|------------|
-|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%201.jpg" width="100">|**Idade**: 42 anos **Ocupação**: Enfermeiro|**Aplicativos**: Instagram, Facebook, Youtube |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%201.jpg" width="200" align="center">|**Idade**: 42 anos **Ocupação**: Enfermeiro|**Aplicativos**: Instagram, Facebook, Youtube |
 |**Motivações**: Cuidar de pessoas, família |**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
 
 |**Pamela Viana**|||
