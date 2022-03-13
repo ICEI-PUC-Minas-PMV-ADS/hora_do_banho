@@ -70,7 +70,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| O Sistema deve permitir ao cliente gerenciar seus dados pessoais. | ALTA | 
 |RF-004| O Sistema deve permitir ao cliente a visualização de datas disponiveis e preços para o agendamento do serviço. | ALTA | 
 |RF-005| O Sistema deve permitir o cadastro de agenda de datas disponíveis e indisponíveis dos Pet Shops e dos preços dos serviços. | ALTA | 
-|RF-006| O Sistema deve permitir ao cliente consultar os endereços dos Pet Shops.| ALTA | 
+|RF-006| O Sistema deve permitir ao cliente consultar dados (nome, telefone, endereço) dos Pet Shops.| ALTA | 
 |RF-007| O Sistema deve permitir ao cliente solicitar agendamento de horário(s) para serviço(s). | ALTA | 
 |RF-008| O Sistema deve permitir ao proprietário de Pet Shop visualizar solicitações de agendamento, confirmando-os ou não. | ALTA | 
 |RF-009| O Sistema deve fornecer ao cliente uma mensagem de confirmação do agendamento por SMS. | BAIXA |
