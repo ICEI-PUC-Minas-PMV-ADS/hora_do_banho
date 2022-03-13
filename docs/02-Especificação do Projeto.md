@@ -43,8 +43,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|------------------------------------|----------------------------------------|
 |Oscar Gabriel Braga | Visualizar Petshops pertos da minha casa | Não perder muito tempo de locomoção |
 |Oscar Gabriel Braga | Um site em que eu possa fazer agendamentos em petshop | Quero uma certa comodidade, já que eu não tenho tanto tempo sobrando no dia a dia |
-|Pamela Viana | Não ter que ligar com antecedência para Pet Shops para marcar banho e tosa para os meus cachorros | Sempre me esqueço de ligar, só faço no momento que preciso. |
-|Pamela Viana | Uma ferramenta que me ajude a conhecer os serviços de banho e tosa da região. | Me mudei há pouco tempo, e não conheço o bairro. |
+|Pamela Viana | Não ter que ligar com antecedência para Pet Shops para marcar banho e tosa para os meus cachorros | Sempre me esqueço de ligar, só faço no momento que preciso |
+|Pamela Viana | Uma ferramenta que me ajude a conhecer os serviços de banho e tosa da região. | Conhecer, pois me mudei há pouco tempo para a região |
 |João da Silva | Gostaria de ter um site em que eu possa disponibilizar meus serviços | Para que meu estabelecimento tenha mais visibilidade |
 |João da Silva | Quero um sistema que gere as informações dos meus clientes | Me organizar de melhor forma a não perder informações e históricos dos clientes |
 |Joana Oliveira | Expandir meu negócio na internet | Para atender de forma mais cômoda os clientes |
@@ -83,10 +83,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser implementado na linguagem C#, html, CSS e Java Script. | ALTA | 
-|RNF-002| As informações de cadastro do cliente devem ficar disponiveis apenas para os clientes e para a plataforma. | ALTA |
+|RNF-002| As informações de cadastro devem ficar disponíveis apenas para os clientes, para os proprietários de Pet Shops e para a plataforma. | ALTA |
 |RNF-003| O site deve estar disponível para os principais navegadores: Chrome, Firefox, Edge. | ALTA |
 |RNF-004| O sistemae deve estar disponivel 24 horas por dia, os sete dias da semana. | ALTA |
-|RNF-005| O site deve ser responsivo, compativel a qualquer tipo de aparelho. Ex: Notebook, tablet, celular. | ALTA |
+|RNF-005| O site deve ser responsivo, compatível a qualquer tipo de aparelho. Ex: Notebook, tablet, celular. | ALTA |
 
 ## Restrições
 
