@@ -65,14 +65,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir gerenciar pet shops. | ALTA | 
-|RF-002| A aplicação deve permitir gerenciar clientes. | ALTA |
-|RF-003| O Sistema deve permitir o agendamento de horários para serviços. | ALTA |
-|RF-004| O Sistema deve permitir o cadastro de agenda de datas disponiveis e indisponiveis dos Pet Shops. | ALTA |
-|RF-005| O Sistema deve fornecer ao usuário uma mensagem de confirmação do agendamento por SMS. | BAIXA |
-|RF-006| O Sistema deve permitir aos pet shops e clientes a consulta aos agendamentos. | MÉDIA |
-|RF-007| O Sistema deve permitir ao cliente a visualização de datas disponiveis para o agendamento do serviço. | ALTA |
-|RF-008| O Sistema deve mostrar o preço do serviço informado pelo Pet Shop. | ALTA |
+|RF-001| O Sistema deve permitir o acesso ao login pelo cliente e pelo proprietário de Pet Shop.| ALTA |
+|RF-002| O Sistema deve permitir ao pet shop gerenciar seus dados de cadastro. | ALTA | 
+|RF-003| O Sistema deve permitir ao cliente gerenciar seus dados pessoais. | ALTA | 
+|RF-004| O Sistema deve permitir ao cliente a visualização de datas disponiveis e preços para o agendamento do serviço. | ALTA | 
+|RF-005| O Sistema deve permitir o cadastro de agenda de datas disponíveis e indisponíveis dos Pet Shops e dos preços dos serviços. | ALTA | 
+|RF-006| O Sistema deve permitir ao cliente consultar os endereços dos Pet Shops.| ALTA | 
+|RF-007| O Sistema deve permitir ao cliente solicitar agendamento de horário(s) para serviço(s). | ALTA | 
+|RF-008| O Sistema deve permitir ao proprietário de Pet Shop visualizar solicitações de agendamento, confirmando-os ou não. | ALTA | 
+|RF-009| O Sistema deve fornecer ao cliente uma mensagem de confirmação do agendamento por SMS. | BAIXA |
+|RF-010| O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e/ou a confirmar. | ALTA | 
+|RF-011| O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados. | ALTA | 
  
 ### Requisitos não Funcionais
 
