@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|**Oscar Gabriel Braga**|||
+|**Oscar Gabriel Braga**|
 |---------|------------|------------|
 |FOTO|**Idade**: 42 anos **Ocupação**: Enfermeiro|**Aplicativos**: Instagram, Facebook, Youtube |
 |**Motivações**: Cuidar de pessoas, família |**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
