@@ -13,16 +13,18 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 |Ambiente |Plataforma | Link de Acesso|
 |---|---|---|
-|Repositório| GitHub| <link ref="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho" id="GitHub">| 
+|Repositório| GitHub| https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho"| 
 |Documentos do Projeto| GitHubDocs | Projeto Hora do Banho|
 |Projeto de Interface e Wireframes| Figma| Figma|
 |Gerenciamento do Projeto| GitHub| Hora do Banho (github.com)|
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
+
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura 2. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.  
+
+
 
 O projeto segue a seguinte convenção para o nome de branches:
 
