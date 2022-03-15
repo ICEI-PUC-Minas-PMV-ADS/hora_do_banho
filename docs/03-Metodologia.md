@@ -104,10 +104,10 @@ IMAGEM
 
 As ferramentas empregadas no projeto são:
 
-Editor de código: Visual Studio, Sublime.
-Ferramentas de comunicação: Microsoft Teams, Whatsapp
-Ferramentas para criação de diagramas: LucidApp
-Ferramentas de desenho de tela (wireframing): Figma
+<p>Editor de código: Visual Studio, Sublime.</p>
+<p>Ferramentas de comunicação: Microsoft Teams, Whatsapp</p>
+<p>Ferramentas para criação de diagramas: LucidApp</p>
+<p>Ferramentas de desenho de tela (wireframing): Figma</p>
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão e permite depuração na máquina local. A ferramenta de comunicação utilizada foi recomendada pela Universidade e é bem completa para gestão de equipes e viabiliza chamadas de áudio, vídeo e conversa por chat. Para criar diagramas utilizamos as ferramentas mencionadas porque cada uma delas capta melhor algumas das necessidades da nossa solução. Por fim, a ferramenta escolhida para o desenvolvimento dos wireframes e interface de usuário foi ecolhida por permitir a edição colaborativa, além de ter funcionalidades voltadas especificamente para a natureza deste trabalho.
  
