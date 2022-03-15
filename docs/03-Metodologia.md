@@ -66,7 +66,7 @@ Senndo assim, o time está organizado da seguinte maneira:
   - Crislaine
   - Eduardo Aguilar
   - Gabriel Judá de Oliveira
-  - Patrícia Freitas
+  - Patrícia Nascimento Freitas
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
