@@ -63,10 +63,10 @@ Senndo assim, o time está organizado da seguinte maneira:
 - `Scrum Master`: Pamela Crivellari Viana
 - `Product Owner`: Oscar
 - `Equipe de Desenvolvimento`:
-  -- Crislaine
-  -- Eduardo Aguilar
-  -- Gabriel Judá
-  -- Patrícia Freitas
+  - Crislaine
+  - Eduardo Aguilar
+  - Gabriel Judá de Oliveira
+  - Patrícia Freitas
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
