@@ -90,7 +90,7 @@ Foi escolhido o quadro de kanban para o gerenciamento do projeto, com o sistema 
 
 A tarefas são classificadas em função da natureza ou prioridade da atividade e seguem o um esquema de etiquetagem entre cores e categorias que pode ser visto pela Figura 4:
 
-IMAGEM
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/labels.png">
 
 *Figura 4 – Tela de etiquetas do quadro kanban no Github*
 
