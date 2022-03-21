@@ -84,7 +84,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 Foi escolhido o quadro de kanban para o gerenciamento do projeto, com o sistema kanban é possível avaliar o progresso do trabalho da equipe, avaliar etapas posteriores, medir o tempo gasto em tarefas especificas e também promover a cooperação entre a equipe, tudo isso utilizando um sistema simples e visual. (AGUIAR, 2007). O quadro kanban do grupo no Github está disponível através da URL Doação (github.com) e é apresentado, no estado atual, na Figura 3:
 
-INCLUIR IMAGEM
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/kanban.png">
 
 *Figura 3 – Tela do quadro kanban do Github criada pelo grupo*
 
