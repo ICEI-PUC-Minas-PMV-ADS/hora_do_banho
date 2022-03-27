@@ -8,10 +8,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+![https://lucid.app/lucidchart/35302369-3e02-4675-b2d7-aa36f9006cf4/view?page=0_0&invitationId=inv_e920f9b2-0511-4acc-aa68-0db3c818a74d#](https://lucid.app/lucidchart/35302369-3e02-4675-b2d7-aa36f9006cf4/view?page=0_0&invitationId=inv_e920f9b2-0511-4acc-aa68-0db3c818a74d#)
 
 ## Modelo ER
 
