@@ -61,9 +61,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 Senndo assim, o time está organizado da seguinte maneira:
 
 - `Scrum Master`: Pamela Crivellari Viana
-- `Product Owner`: Oscar
+- `Product Owner`: Crislaine
 - `Equipe de Desenvolvimento`:
-  - Crislaine
   - Eduardo Aguilar
   - Gabriel Judá de Oliveira
   - Patrícia Nascimento Freitas
