@@ -119,5 +119,5 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 > - [Diagrams](https://app.diagrams.net/)
 
 > **Fontes**:
-> - (http://abinpet.org.br/infos_gerais/ acesso: 21/02/22 13h30) 
-> - (https://cps.fgv.br/qual-faixa-de-renda-familiar-das-classes acesso: 21/02/22 14h10)
+> - http://abinpet.org.br/infos_gerais acesso: 21/02/22 13h30
+> - https://cps.fgv.br/qual-faixa-de-renda-familiar-das-classes acesso: 21/02/22 14h10
