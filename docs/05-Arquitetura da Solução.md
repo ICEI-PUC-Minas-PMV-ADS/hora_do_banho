@@ -27,7 +27,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária. O ER da aplicação em desenvolvimento corresponde à Figura 18, representada a seguir:
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Esquema%20Relacional1.png">
-*Figura 18 - Esquema Relacional*
+_Figura 18 - Esquema Relacional_
 
 ## Tecnologias Utilizadas
 
