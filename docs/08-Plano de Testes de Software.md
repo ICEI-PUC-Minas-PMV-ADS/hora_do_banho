@@ -57,5 +57,5 @@
 |**Entrada cadastro**| Preencher: E-mail, Nome fantasia, Razão Social, CNPJ, Telefone, Crie sua senha e confirme a senha.
 |**Login**| Informar email e senha cadastrados.
 |**Objetivo do teste**| Permitir que o usuário crie um cadastro do seu Petshop.
-|**Passos**| 1-Acessar o navegador, 2- Informar o endereço do site, 3- Clicar no botão cadastrar, 4- preencher os campos de cadastro, clicar no botão concluir cadastro.
+|**Passos**| 1-Acessar o navegador, 2- Informar o endereço do site, 3- Clicar no botão cadastrar, 4- preencher os campos de cadastro, 5- Clicar no botão concluir cadastro.
 |**Critérios de Êxito**| Usuário será redirecionado a página de login, e receberá a mensagem "Cadastro efetuado com sucesso!"
