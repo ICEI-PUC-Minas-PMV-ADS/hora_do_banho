@@ -28,7 +28,7 @@ Para gestão do código fonte do software desenvolvido, o grupo utiliza um proce
 
 *Figura 2 - Fluxo de controle do código fonte no repositório git*
 
-O projeto segue a seguinte convenção para o nome de branches:
+O projeto segue a seguinte convenção  para o nome de branches:
 
 - `main`: versão estável já testada do software
 - `unstable`: versão já testada do software, porém instável
