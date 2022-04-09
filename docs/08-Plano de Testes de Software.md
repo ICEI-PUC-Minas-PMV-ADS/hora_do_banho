@@ -51,11 +51,24 @@
 
 
 
-|**casos de teste**| CT-01-Cadastro do Petshop |
+|**Casos de Teste**| CT-01-Cadastro do Petshop |
 |      ---       |            ---            |
-|**Requisitos associados**| RF-01 - A página inicial deve permitir ao representante do Petshop efetuar seu cadastro no site. RF-02- O site deve conter um formulário de cadastro pra novos usuários contendo a intenção de cadastro desejada.
+|**Requisitos Associados**| RF-01 - A página inicial deve permitir ao representante do Petshop efetuar seu cadastro no site. RF-02- O site deve conter um formulário de cadastro pra novos usuários contendo a intenção de cadastro desejada.
 |**Entrada cadastro**| Preencher: E-mail, Nome fantasia, Razão Social, CNPJ, Telefone, Crie sua senha e confirme a senha.
 |**Login**| Informar email e senha cadastrados.
 |**Objetivo do teste**| Permitir que o usuário crie um cadastro do seu Petshop.
 |**Passos**| 1-Acessar o navegador, 2- Informar o endereço do site, 3- Clicar no botão cadastrar, 4- preencher os campos de cadastro, 5- Clicar no botão concluir cadastro.
 |**Critérios de Êxito**| Usuário será redirecionado a página de login, e receberá a mensagem "Cadastro efetuado com sucesso!"
+
+
+
+
+
+
+| Casos de teste | CT-06-Agendamento |
+|      ---       |        ---        |
+|**Requisitos Associados**| RF-07 - A página deve permitir ao usuário realizar uma busca por um petshop e verificar as datas disponíveis para realizar um agendamento.
+|**Entrada Agendamento**| Informar um petshop cadastrado no site
+|**Objetivo do teste**| Permitir que o cliente visualize as datas disponíveis para agendamento.
+|**Passo**| 1- Acessar o navegador, 2- Informar o endereço so site, 3- Clicar no botão "Pesquisar Petshop", 4- Preencher os campos obrigatórios para o agendamento, 5- Selecionar uma data disponível.
+|**Critérios de Êxito**| O usuário será redirecionado para a página de agendamento.
