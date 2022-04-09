@@ -16,17 +16,17 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa, conforme pode ser visualizado na Figura 17, apresentada logo abaixo:
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
+<img src="">
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+*Figura 17 - Modelo ER*
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária. O ER da aplicação em desenvolvimento corresponde à Figura 18, representada a seguir:
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Esquema%20Relacional1.png">
+<img src="">
 
 _Figura 18 - Esquema Relacional_
 
