@@ -30,10 +30,4 @@ O crescimento do mercado pet, em 2020, foi de 11% (Abinpet), em plena pandemia d
 
 Essa aplicação poderá ser usada por qualquer pessoa que, na correria do dia a dia, não tenha tempo para contactar vários pet shops em busca de horários adequados para atender seus pets, de acordo com a disponibilidade ou necessidade de seus donos. E para pet shops que tenham horários livres devido a qualquer imprevisto, dessa maneira podendo ser encontrados por esses donos de pets. 
 
-Definimos, como público-alvo, homens e mulheres entre 25 e 50 anos, pertencentes às classes econômicas B e C (segundo a classificação da [Fundação Getúlio Vargas](https://cps.fgv.br/qual-faixa-de-renda-familiar-das-classes) – FGV).
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Definimos, como público-alvo, homens e mulheres entre 25 e 50 anos, pertencentes às classes econômicas B e C (segundo a [classificação](https://cps.fgv.br/qual-faixa-de-renda-familiar-das-classes) da Fundação Getúlio Vargas – FGV).
