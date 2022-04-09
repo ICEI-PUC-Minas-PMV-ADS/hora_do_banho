@@ -44,3 +44,18 @@
 |**Objetivo do Teste**| Verificar se o cliente consegue realizar a alteração da senha de login no site.
 |**Passos**| 1- Acessar o navegador, 2- Informar o endereço do site, 3- Visualizar a página principal, 4- Clicar no link “Esqueci minha senha”, 5- Informar o e-mail, onde o cliente será redirecionado para a criação de uma nova senha, 6- Insira a nova senha no campo (Senha) e redigite no campo (Confirmar senha) e clique no botão Enviar, cliente será redirecionado a tela de Login.
 |**Critérios de Êxito**| Mensagem “Senha alterada com sucesso.”
+
+
+
+
+
+
+
+|**casos de teste**| CT-01-Cadastro do Petshop |
+|      ---       |            ---            |
+|**Requisitos associados**| RF-01 - A página inicial deve permitir ao representante do Petshop efetuar seu cadastro no site. RF-02- O site deve conter um formulário de cadastro pra novos usuários contendo a intenção de cadastro desejada.
+|**Entrada cadastro**| Preencher: E-mail, Nome fantasia, Razão Social, CNPJ, Telefone, Crie sua senha e confirme a senha.
+|**Login**| Informar email e senha cadastrados.
+|**Objetivo do teste**| Permitir que o usuário crie um cadastro do seu Petshop.
+|**Passos**| 1-Acessar o navegador, 2- Informar o endereço do site, 3- Clicar no botão cadastrar, 4- preencher os campos de cadastro, clicar no botão concluir cadastro.
+|**Critérios de Êxito**| Usuário será redirecionado a página de login, e receberá a mensagem "Cadastro efetuado com sucesso!"
