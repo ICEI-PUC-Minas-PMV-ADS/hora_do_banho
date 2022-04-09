@@ -24,7 +24,7 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-O crescimento do mercado pet, em 2020, foi de 11% (Abinpet), em plena pandemia de COVID-19. Isso mostra o aumento da população brasileira de cães e gatos e, também, dos cuidados com eles por parte de seus proprietários (devemos lembrar que boa parte das pessoas trabalhou no sistema “work from home”). Fazer a ligação entre essas pessoas e os pet shops trará muitos benefícios para ambas as partes. 
+O crescimento do mercado pet, em 2020, foi de 11% ([Abinpet](http://abinpet.org.br/infos_gerais/)), em plena pandemia de COVID-19. Isso mostra o aumento da população brasileira de cães e gatos e, também, dos cuidados com eles por parte de seus proprietários (devemos lembrar que boa parte das pessoas trabalhou no sistema “work from home”). Fazer a ligação entre essas pessoas e os pet shops trará muitos benefícios para ambas as partes. 
 
 ## Público-Alvo
 
