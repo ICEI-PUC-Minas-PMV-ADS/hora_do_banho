@@ -11,7 +11,7 @@ Para cada tarefa do participante é possível medir:
 - Quantos erros de cada tipo ocorreram;
 - Quanto tempo foi necessário para concluí-la.
 
-##Roteiro
+## Roteiro
 
 |**Tarefa 1**| Critério de Êxito | O que será avaliado |
 |   ---  |       ---         |        ---          |
@@ -45,13 +45,13 @@ Para cada tarefa do participante é possível medir:
 |     ---    |       ---         |        ---          |
 |**Agenda de serviços**| Vizualizar a agenda dos serviços adiquiridos e os horários disponíveis dos Petshops cadastrados|Concretização da tarefa. Quantidade de erros cometidos.|
 
-##Objetivo
+## Objetivo
 
 Fazer melhorias na plataforma proporcionando uma melhor experiência ao usuário. O que será mensurado no teste:
 
 - A qualidade na navegação
 - Satisfação do usuário
 
-##Perfil do usuário
+## Perfil do usuário
 
 Serão selecionados os usuários de acordo com as personas definidas na metodologia do trabalho, sendo elas, pessoas que se preocupam com o descarte correto de materiais recicláveis e eletrônicos e que tenham um conhecimento básico em informática.
