@@ -52,7 +52,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O Sistema deve permitir o acesso ao login pelo cliente e pelo proprietário de Pet Shop.| ALTA |
 |RF-002| O Sistema deve permitir ao pet shop gerenciar seus dados de cadastro. | ALTA | 
 |RF-003| O Sistema deve permitir ao cliente gerenciar seus dados pessoais. | ALTA | 
-|RF-004| O Sistema deve permitir ao cliente a visualização de datas disponiveis e preços pré estabelicidos de acorco com o tipo serviço para o agendamento. | ALTA | 
+|RF-004| O Sistema deve permitir ao cliente a visualização de datas disponíveis e preços pré-estabelicidos de acordo com o tipo de serviço para o agendamento. | ALTA | 
 |RF-005| O Sistema deve permitir o cadastro de agenda de datas disponíveis e indisponíveis dos Pet Shops e dos preços dos serviços pré-definidos. | ALTA | 
 |RF-006| O Sistema deve permitir ao cliente consultar dados (nome, telefone, endereço) dos Pet Shops.| ALTA | 
 |RF-007| O Sistema deve permitir ao cliente solicitar agendamento de horário(s) para serviço(s). | ALTA | 
@@ -61,6 +61,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-010| O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e permitir o cancelamento do serviço. | ALTA | 
 |RF-011| O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados. | ALTA | 
 |RF-012| O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente. | ALTA |
+|RF-013| O Sistema deve permitir ao cliente cadastrar seu(s) animal(is).|ALTA|
+|RF-014| O sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|BAIXA|
  
 ### Requisitos não Funcionais
 
@@ -71,8 +73,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O site deve estar disponível para os principais navegadores: Chrome, Firefox, Edge. | ALTA |
 |RNF-004| O sistemae deve estar disponivel 24 horas por dia, os sete dias da semana. | ALTA |
 |RNF-005| O site deve ser responsivo, compatível a qualquer tipo de aparelho. Ex: Notebook, tablet, celular. | ALTA |
-|RNF-006| O sistema deve enviar para o cliente a confirmação via sms.| BAIXA |
-|RNF-007| O sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários. | BAIXA |
 
 ## Restrições
 
@@ -107,6 +107,6 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 |Consultar agendamento(s) confirmado(s).|O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e permitir o cancelamento do serviço.|RF-010|
 |Visualizar listas de agendamentos confirmados.|O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados.|RF-011|
 |Notificar Pet Shop.|O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente.|RF-012|
-|Cadastrar animal.|||
+|Cadastrar animal.|O Sistema deve permitir ao cliente cadastrar seu(s) animal(is).|RF-013|
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png">
