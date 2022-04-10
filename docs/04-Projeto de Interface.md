@@ -86,6 +86,7 @@ Figura 14 - Fluxo Esqueci a senha
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/resetDeSenha.png">          
 Figura 15 - Fluxo Reset de senha
 
+
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 
