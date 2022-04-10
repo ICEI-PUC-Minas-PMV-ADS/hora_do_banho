@@ -62,7 +62,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-011| O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados. | ALTA | 
 |RF-012| O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente. | ALTA |
 |RF-013| O Sistema deve permitir ao cliente cadastrar seu(s) animal(is).|ALTA|
-|RF-014| O sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|BAIXA|
+|RF-014| O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|BAIXA|
  
 ### Requisitos não Funcionais
 
@@ -108,5 +108,7 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 |Visualizar listas de agendamentos confirmados.|O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados.|RF-011|
 |Notificar Pet Shop.|O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente.|RF-012|
 |Cadastrar animal.|O Sistema deve permitir ao cliente cadastrar seu(s) animal(is).|RF-013|
+|Classificar Pet Shop.|O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|RF-014|
+|Classificar Cliente.|O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|RF-014|
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Projeto%20Eixo%202%20-%20Diagrama%20de%20Casos%20de%20Uso%20.png">
