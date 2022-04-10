@@ -7,14 +7,14 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 
 |**Oscar Gabriel Braga**|||
-|:----------------------------------------------------------------------------------------------------------------:|:---:|:---:|
+|:---:|:---:|:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%201.jpg" width="150">|<p>**Idade**: 42 anos</p> <p>**Ocupação**: Enfermeiro</p>|**Aplicativos**: Instagram, Facebook, Youtube |
-|**Motivações**: Cuidar de pessoas, família.|**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
+|**Motivações**: Cuidar de pessoas e, ao mesmo tempo, cuidar de si mesmo e de seus animais.|**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo, pois sua vida é corrida, principalmente por causa dos plantões. |**Hobbies**: Viajar, ler, lazer com a família, passar um tempo com seus pets.|
 
 |**Pamela Viana**|||
 |:---:|:---:|:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%202.jpg" width="150">|<p>**Idade**: 34 anos</p> <p>**Ocupação**: Médica Veterinária</p>|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
-|**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
+|**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia, incluindo as do âmbito pessoal. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
 
 |**João da Silva**|||
 |:---:|:---:|:---:|
