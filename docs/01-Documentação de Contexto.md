@@ -10,7 +10,7 @@ O objetivo do projeto é conseguir ligar estas duas informações, desenvolvendo
 
 ## Problema
 
-Conforme exposto acima, o problema visado pelo nosso projeto é atender a principal demanda de donos de pets (precisamente, cachorro e gato): dar banhos em seus “bichinhos”. No caso, ajudá-los a encontrar horários de banhos e tosa para seus animais, mesmo que em cima da hora, o que resultará em ganho de tempo por parte do proprietário.
+Conforme exposto acima, o problema visado pelo nosso projeto é atender a principal demanda de donos de pets (precisamente, cachorro e gato): dar banhos em seus “bichinhos”. 
 
 ## Objetivos
 
