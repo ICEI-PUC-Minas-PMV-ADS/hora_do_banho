@@ -98,6 +98,15 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 |Fazer login.|O Sistema deve permitir o acesso ao login pelo cliente e pelo proprietário de Pet Shop.|RF-001|
 |Gerenciar dados do Pet Shop.|O Sistema deve permitir ao pet shop gerenciar seus dados de cadastro.|RF-002|
 |Gerenciar dados pessoais.|O Sistema deve permitir ao cliente gerenciar seus dados pessoais.|RF-003| 
-
+|Consultar horários disponíveis e preço.|O Sistema deve permitir ao cliente a visualização de datas disponíveis e preços pré-estabelicidos de acordo com o tipo de serviço para o agendamento.|RF-004|
+|Incluir horários disponíveis e preço.|O Sistema deve permitir o cadastro de agenda de datas disponíveis e indisponíveis dos Pet Shops e dos preços dos serviços pré-definidos.|RF-005|
+|Consultar dados do Pet Shop.|O Sistema deve permitir ao cliente consultar dados (nome, telefone, endereço) dos Pet Shops.|RF-006|
+|Solicitar agendamento de banho e/ou tosa.|O Sistema deve permitir ao cliente solicitar agendamento de horário(s) para serviço(s).|RF-007|
+|Visualizar solicitações de agendamento do cliente.|O Sistema deve permitir ao proprietário de Pet Shop visualizar solicitações de agendamento, confirmando-os ou não.|RF-008|
+|Enviar SMS de confirmação.|O Sistema deve fornecer ao cliente uma mensagem de confirmação do agendamento.|RF-009|
+|Consultar agendamento(s) confirmado(s).|O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e permitir o cancelamento do serviço.|RF-010|
+|Visualizar listas de agendamentos confirmados.|O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados.|RF-011|
+|Notificar Pet Shop.|O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente.|RF-012|
+|Cadastrar animal.|||
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png">
