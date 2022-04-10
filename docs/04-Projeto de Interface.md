@@ -62,12 +62,12 @@ Figura 11 - Fluxo de Criar Agendamento
 
 ## Fluxo de Telas - Minha Conta Cliente
 O fluxo "minha conta cliente" permite o usuário visualizar suas agendas e status e cancelar um agendamento
-<img src= >
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/cadastro%20cliente.png">
 Figura 12 - Fluxo Minha Conta Cliente
 
 ## Fluxo de Telas - Minha Conta Petshop
 O fluxo "minha conta cliente" permite o usuário visualizar suas agendas e status e cancelar um agendamento
-<img src= >
+<img src=" >
 Figura 13 - Fluxo Minha Conta Petshop
 
 
