@@ -95,5 +95,9 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 |**CASO DE USO**|**DESCRIÇÃO**|**RF**|
 |---|---|---|
+|Fazer login.|O Sistema deve permitir o acesso ao login pelo cliente e pelo proprietário de Pet Shop.|RF-001|
+|Gerenciar dados do Pet Shop.|O Sistema deve permitir ao pet shop gerenciar seus dados de cadastro.|RF-002|
+|Gerenciar dados pessoais.|O Sistema deve permitir ao cliente gerenciar seus dados pessoais.|RF-003| 
+
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png">
