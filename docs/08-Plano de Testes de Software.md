@@ -67,10 +67,10 @@
 
 | Casos de teste | CT-06-Agenda |
 |      ---       |        ---        |
-|**Requisitos Associados**| RF-07 - A página deve permitir ao usuário realizar uma busca por um petshop e verificar as datas disponíveis para realizar um agendamento.
-|**Entrada Agendamento**| Informar um petshop cadastrado no site
-|**Objetivo do teste**| Permitir que o cliente visualize as datas disponíveis para agendamento.
-|**Passo**| 1- Acessar o navegador, 2- Informar o endereço so site, 3- Clicar no botão "Pesquisar Petshop", 4- Preencher os campos obrigatórios para o agendamento, 5- Selecionar uma data disponível.
+|**Requisitos Associados**| RF-07 - A página deve permitir ao usuário realizar uma busca por um petshop e verificar as datas disponíveis para realizar um agendamento. RF-08 A página deve permitir ao usuário consultar seu agendamento e cancelar, caso queira.
+|**Entrada Agendamento**| Informar um petshop cadastrado no site e mostrar os agendamentos feitos pelo cliente.
+|**Objetivo do teste**| Permitir que o cliente visualize as datas disponíveis para agendamento, consultar seus agendamentos e cancelar agendamentos.
+|**Passo**| 1- Acessar o navegador, 2- Informar o endereço so site, 3- Clicar no botão "Pesquisar Petshop", 4- Preencher os campos obrigatórios para o agendamento, 5- Selecionar uma data disponível, 6- Consultar/Cancelar agendamento.
 |**Critérios de Êxito**| O usuário será redirecionado para a página de agendamento.
 
 
@@ -79,7 +79,7 @@
 
 | Casos de teste | CT-07-Agendamento |
 |      ---       |        ---        |
-|**Requisitos Associados**| RF-08 - A página deve permitir ao usuário realizar o agendamento dos serviços prestados pelo Petshop.
+|**Requisitos Associados**| RF-09 - A página deve permitir ao usuário realizar o agendamento dos serviços prestados pelo Petshop.
 |**Entrada Agendamento**| Preencher: Pet, Serviço, Profissional, Petshop, Serviços Adicionais.
 |**Objetivo do teste**| Permitir que o cliente agende um horário para prestação de serviço ao Pet.
 |**Passo**| 1- Acessar o navegador, 2- Informar o endereço so site, 3- Preencher os campos obrigatórios, 4- Preencher os campos obrigatórios para o agendamento, 5- Adicionar um serviço adicional, caso o cliente queira, 6- Clicar no botão "Concluir".
