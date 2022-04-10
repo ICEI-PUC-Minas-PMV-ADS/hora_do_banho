@@ -41,14 +41,14 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Oscar Gabriel Braga | Visualizar Petshops pertos da minha casa | Não perder muito tempo de locomoção |
-|Oscar Gabriel Braga | Um site em que eu possa fazer agendamentos em petshop | Quero uma certa comodidade, já que eu não tenho tanto tempo sobrando no dia a dia |
-|Pamela Viana | Não ter que ligar com antecedência para Pet Shops para marcar banho e tosa para os meus cachorros | Sempre me esqueço de ligar, só faço no momento que preciso |
+|Oscar Gabriel Braga | Visualizar Petshops pertos da minha casa | Não perder tempo com locomoção |
+|Oscar Gabriel Braga | Agendar horário em petshop atráves de um site | Não usar o pouco tempo livre que tenho no dia ligando para petshop para marcar horário |
+|Pamela Viana | Não ter que ligar com antecedência para Pet Shops para marcar banho e tosa para os meus cachorros | Quando ocorrer de esquecer de marcar horário, conseguir achar agenda disponível de forma prática |
 |Pamela Viana | Uma ferramenta que me ajude a conhecer os serviços de banho e tosa da região. | Conhecer, pois me mudei há pouco tempo para a região |
-|João da Silva | Gostaria de ter um site em que eu possa disponibilizar meus serviços | Para que meu estabelecimento tenha mais visibilidade |
+|João da Silva | Um site em que eu possa disponibilizar meus serviços | Para aumentar o alcance do meu serviço |
 |João da Silva | Quero um sistema que gere as informações dos meus clientes | Me organizar de melhor forma a não perder informações e históricos dos clientes |
 |Joana Oliveira | Expandir meu negócio na internet | Para atender de forma mais cômoda os clientes |
-|Joana Oliveira | Quero ter um volume de vendas maior e de forma eficiente | Para poder me adequar ao mercado digital e trazer mais clientes para a loja |
+|Joana Oliveira | Aumentar o volume de venda de serviço de forma eficiente | Para poder me adequar ao mercado digital e trazer mais clientes para a loja |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
