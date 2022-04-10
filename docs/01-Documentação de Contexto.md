@@ -2,7 +2,7 @@
 
 Segundo a [Abinpet](http://abinpet.org.br/infos_gerais/) (Associação Brasileira da Indústria de Produtos para Animais de Estimação), nosso país possui a segunda maior população de cães e gatos do mundo (55,9 milhões e 25,6 milhões, respectivamente, em 2020). Como reflexo disso, temos um mercado pet que só perde para os Estados Unidos, e que continua a crescer, principalmente após o surgimento da pandemia de COVID-19. Isto ocorre devido ao aumento da percepção de que o convívio direto com os animais traz benefícios à saúde e, principalmente, à mudança do perfil das famílias brasileiras. Não é difícil encontrar casais que optam por não ter filhos ou ter um só e adotam pets, ou mesmo, pessoas morando sozinhas que escolhem ter a companhia de animais. 
 
-Somado a isso, o dia-a-dia das pessoas está cada vez mais atribulado. Vivemos ocupados com questões da vida profissional e, por causa disso, deixamos de lado muitas atividades necessárias no lado pessoal. E isto inclui cuidar de nossos pets. 
+Somado a isso, o dia-a-dia das pessoas está cada vez mais atribulado. Elas vivem ocupadas com suas questões da vida profissional e, por causa disso, costumam deixar de lado muitas atividades necessárias no lado pessoal. E isto inclui cuidar de seus pets. 
 
 Na tentativa de minimizar este problema, algumas pessoas buscam ferramentas que as auxiliem a cumprir seus compromissos. A agenda de papel não está mais conseguindo suprir todas as demandas. No âmbito tecnológico, programas e aplicativos têm ajudado na realização de tarefas. 
 
