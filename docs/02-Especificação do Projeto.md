@@ -112,3 +112,5 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 |Classificar Cliente.|O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|RF-014|
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Projeto%20Eixo%202%20-%20Diagrama%20de%20Casos%20de%20Uso%20.png">
+
+*Figura 1 - Diagrama de casos de uso*
