@@ -10,6 +10,15 @@ A montagem da interface do sistema foi cuidadosamente desenvolvida para proporci
 
 Conforme pode ser visto, a *Figura 5* mostra o diagrama de fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que será desenvolvido. 
 
+|FLUXO DO USUÁRIO| DESCRIÇÃO | RF |
+|--|-------------------------------------------------------|----------------------|
+|Home | A home da aplicação sera reponsavel por ligar as funcionalidades principais do sistema| RF-01 |
+|Cadastro de usuário | O usuário deve conseguir realizar o cadastro conforme o  tipo de usuário| RF-01 |
+|Agenda Cliente| O cliente deverá visualizar a agenda, preços  e selecionar data e horários disponiveis| RF-004|
+|Agenda Petshop| O petshop deverá visualizar, adicionar e ditar datas e horários| RF-005 |
+|Novo agendamento| O cliente deverá inserir dados do pet e adicionar serviços| RFs-07 e 13 |
+|Minha conta| O usuário deverá visualizar suas agendas e status do agendamento| RFs-08 e 10 |
+
 ![Exemplo de Diagrama de Fluxo](img/userFlowDiagram.png)
 
 
