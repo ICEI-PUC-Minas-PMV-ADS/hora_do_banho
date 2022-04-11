@@ -15,7 +15,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |---|---|---|
 |Repositório| GitHub| https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho"| 
 |Documentos do Projeto| GitHubDocs | Projeto Hora do Banho|
-|Projeto de Interface e Wireframes| Figma| Figma|
+|Projeto de Interface e Wireframes| Figma| Figma|Whimsical
 |Gerenciamento do Projeto| GitHub| Hora do Banho (github.com)|
 
 ## Controle de Versão
