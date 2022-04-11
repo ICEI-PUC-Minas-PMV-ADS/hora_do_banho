@@ -10,7 +10,7 @@ O referido projeto trata de uma ferramenta que possibilita aos proprietários de
 
 ## Integrantes
 
-* Crislaine
+* Crislaine Medeiros
 * Eduardo Aguilar
 * Gabriel Judá de Oliveira
 * Pamela Crivellari Viana

@@ -7,14 +7,14 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 
 |**Oscar Gabriel Braga**|||
-|:----------------------------------------------------------------------------------------------------------------:|:---:|:---:|
+|:---:|:---:|:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%201.jpg" width="150">|<p>**Idade**: 42 anos</p> <p>**Ocupação**: Enfermeiro</p>|**Aplicativos**: Instagram, Facebook, Youtube |
-|**Motivações**: Cuidar de pessoas, família.|**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
+|**Motivações**: Cuidar de pessoas e, ao mesmo tempo, cuidar de si mesmo e de seus animais.|**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo, pois sua vida é corrida, principalmente por causa dos plantões. |**Hobbies**: Viajar, ler, lazer com a família, passar um tempo com seus pets.|
 
 |**Pamela Viana**|||
 |:---:|:---:|:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%202.jpg" width="150">|<p>**Idade**: 34 anos</p> <p>**Ocupação**: Médica Veterinária</p>|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
-|**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
+|**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia, incluindo as do âmbito pessoal. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
 
 |**João da Silva**|||
 |:---:|:---:|:---:|
@@ -25,15 +25,6 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |:---:|:---:|:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/persona%203.jpg" width="150">|<p>**Idade**: 45 anos</p> <p>**Ocupação**:  Proprietário do Pet 4 Patas</p>|**Aplicativos**: Instagram e Youtube.  |
 |**Motivações**: Expandir o negócio e potencializar a divulgação dos serviços prestados.  |**Frustrações**: Loja não fica em um ponto com boa visibilidade.   |**Hobbies**: Praticar esportes|
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
 
 ## Histórias de Usuários
 
@@ -50,13 +41,6 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Joana Oliveira | Expandir meu negócio na internet | Para atender de forma mais cômoda os clientes |
 |Joana Oliveira | Aumentar o volume de venda de serviço de forma eficiente | Para poder me adequar ao mercado digital e trazer mais clientes para a loja |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -68,7 +52,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O Sistema deve permitir o acesso ao login pelo cliente e pelo proprietário de Pet Shop.| ALTA |
 |RF-002| O Sistema deve permitir ao pet shop gerenciar seus dados de cadastro. | ALTA | 
 |RF-003| O Sistema deve permitir ao cliente gerenciar seus dados pessoais. | ALTA | 
-|RF-004| O Sistema deve permitir ao cliente a visualização de datas disponiveis e preços pré estabelicidos de acorco com o tipo serviço para o agendamento. | ALTA | 
+|RF-004| O Sistema deve permitir ao cliente a visualização de datas disponíveis e preços pré-estabelicidos de acordo com o tipo de serviço para o agendamento. | ALTA | 
 |RF-005| O Sistema deve permitir o cadastro de agenda de datas disponíveis e indisponíveis dos Pet Shops e dos preços dos serviços pré-definidos. | ALTA | 
 |RF-006| O Sistema deve permitir ao cliente consultar dados (nome, telefone, endereço) dos Pet Shops.| ALTA | 
 |RF-007| O Sistema deve permitir ao cliente solicitar agendamento de horário(s) para serviço(s). | ALTA | 
@@ -77,6 +61,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-010| O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e permitir o cancelamento do serviço. | ALTA | 
 |RF-011| O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados. | ALTA | 
 |RF-012| O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente. | ALTA |
+|RF-013| O Sistema deve permitir ao cliente cadastrar seu(s) animal(is).|ALTA|
+|RF-014| O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|BAIXA|
  
 ### Requisitos não Funcionais
 
@@ -87,8 +73,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O site deve estar disponível para os principais navegadores: Chrome, Firefox, Edge. | ALTA |
 |RNF-004| O sistemae deve estar disponivel 24 horas por dia, os sete dias da semana. | ALTA |
 |RNF-005| O site deve ser responsivo, compatível a qualquer tipo de aparelho. Ex: Notebook, tablet, celular. | ALTA |
-|RNF-006| O sistema deve enviar para o cliente a confirmação via sms.| BAIXA |
-|RNF-007| O sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários. | BAIXA |
 
 ## Restrições
 
@@ -100,24 +84,33 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O projeto deve ser desenvolvido em html, CSS, Java Script e C#.|
 |03| O projeto deve ser realizado pela equipe formada sem interferências externas. |
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png">
+|**ATOR**|**DESCRIÇÃO**|
+|---|---|
+|Cliente|Pessoa interessada no serviço de marcação de banho e/ou tosa para o seu animal de estimação.|
+|Proprietário do Pet Shop|Pessoa proprietária do Pet Shop, o qual fornecerá os serviços de banho e/ou tosa.|
 
+|**CASO DE USO**|**DESCRIÇÃO**|**RF**|
+|---|---|---|
+|Fazer login.|O Sistema deve permitir o acesso ao login pelo cliente e pelo proprietário de Pet Shop.|RF-001|
+|Gerenciar dados do Pet Shop.|O Sistema deve permitir ao pet shop gerenciar seus dados de cadastro.|RF-002|
+|Gerenciar dados pessoais.|O Sistema deve permitir ao cliente gerenciar seus dados pessoais.|RF-003| 
+|Consultar horários disponíveis e preço.|O Sistema deve permitir ao cliente a visualização de datas disponíveis e preços pré-estabelicidos de acordo com o tipo de serviço para o agendamento.|RF-004|
+|Incluir horários disponíveis e preço.|O Sistema deve permitir o cadastro de agenda de datas disponíveis e indisponíveis dos Pet Shops e dos preços dos serviços pré-definidos.|RF-005|
+|Consultar dados do Pet Shop.|O Sistema deve permitir ao cliente consultar dados (nome, telefone, endereço) dos Pet Shops.|RF-006|
+|Solicitar agendamento de banho e/ou tosa.|O Sistema deve permitir ao cliente solicitar agendamento de horário(s) para serviço(s).|RF-007|
+|Visualizar solicitações de agendamento do cliente.|O Sistema deve permitir ao proprietário de Pet Shop visualizar solicitações de agendamento, confirmando-os ou não.|RF-008|
+|Enviar SMS de confirmação.|O Sistema deve fornecer ao cliente uma mensagem de confirmação do agendamento.|RF-009|
+|Consultar agendamento(s) confirmado(s).|O Sistema deve permitir ao cliente consultar seu(s) agendamento(s) confirmado(s) e permitir o cancelamento do serviço.|RF-010|
+|Visualizar listas de agendamentos confirmados.|O Sistema deve permitir ao proprietário de Pet Shop visualizar lista de agendamentos confirmados.|RF-011|
+|Notificar Pet Shop.|O Sistema deve notificar ao Pet Shop a solicitação de agendamento enviada pelo cliente.|RF-012|
+|Cadastrar animal.|O Sistema deve permitir ao cliente cadastrar seu(s) animal(is).|RF-013|
+|Classificar Pet Shop.|O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|RF-014|
+|Classificar Cliente.|O Sistema deve oferecer classificação de qualidade de 1 a 5 estrelas de pet shops e usuários.|RF-014|
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Projeto%20Eixo%202%20-%20Diagrama%20de%20Casos%20de%20Uso%20.png">
 
-> **Fontes**:
-> - http://abinpet.org.br/infos_gerais acesso: 21/02/22 13h30
-> - https://cps.fgv.br/qual-faixa-de-renda-familiar-das-classes acesso: 21/02/22 14h10
+*Figura 1 - Diagrama de casos de uso*
