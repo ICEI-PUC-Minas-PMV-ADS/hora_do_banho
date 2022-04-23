@@ -15,7 +15,7 @@ Paleta de ocres conta com a cor primaria azul, foi definida como cor base a cor 
 Figura 19 – Paleta de Cores
 
 
-As cores foram escolhidas de acordo com o queremos passar com a nossa aplicação dando evidencias ao cuidado, amor e saúde dos pets.
+As cores foram escolhidas de acordo com o que queremos passar com a nossa aplicação dando evidencias ao cuidado, amor e saúde dos pets.
 
 Usamos tons de verde que tem relação com conceitos de saúde, ambiente calmo e tranquilo, os tons de rosa para se referir ao amor e ternura e o azul que está 
 relacionado a tranquilidade e harmonia.
