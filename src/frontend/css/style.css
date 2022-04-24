@@ -11,7 +11,7 @@ h1 img {
 }
 
 .caixa {
-	width: 940px;
+	width: 100%;
 }
 
 nav {
@@ -126,6 +126,12 @@ form {
 	padding: 30px 10px;
 }
 
+.formEntrar
+{
+	margin: 0;
+	padding: 0;
+}
+
 form h3 {
 	margin: 0 0 20px;
 	font-size: 20px;
@@ -140,4 +146,50 @@ form input {
 
 form input:nth-child(4) {
 	padding: 50px 50px;
+}
+
+.imagemDeFundo{
+    background-image: url('../images/gato.PNG'); 
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	background-color: #fff;
+	background-repeat: no-repeat;
+}
+
+.quadroFundoEntrar{
+	background-color: #C4C4C4;
+	width: 40%;
+	height: 50%;
+	opacity: 0.75;
+	position:absolute;
+	left: 0;
+    right: 0;
+    margin-left: 10%;
+    margin-right: auto;
+    top: 30%;
+	border-radius: 40px;
+}
+
+.logoEntrarTransparente {
+	width: 90%;
+    padding-top: 10%;
+}
+
+.camposEntrar{
+	width: 100%;
+	background-color: #325288;
+}
+
+.textosEntrar {
+	color: #325288;
+}
+
+.buttonEntrar {
+	width: 30%;
+    height: 40px;
+	background-color:#325288 !important;
 }
