@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="Pt-Br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./frontend/css/cadastrar.css" mdeio="">
+    <title>Cadastro</title>
+  </head>
+  <body>
+    <div class="campo">
+      <h1 id="titulo">Cadastro</h1>
+      <p id="subtitulo"><strong>Complete suas informações:</strong></p>
+      <br />
+    </div>
+    <form>
+      <fieldset class="grupo">
+        <div class="campo">
+          <label for="email">Digite seu email</label>
+          <input type="email" nome="email" id="email" required />
+        </div>
+      </fieldset>
+      <fieldset>
+        <div class="campo">
+          <label for="nome">Nome</label>
+          <input type="text" nome="nome" id="nome" required />
+        </div>
+        <div class="campo">
+          <label for="sobrenome">Sobrenome</label>
+          <input type="text" nome="sobrenome" id="sobrenome" required/>
+        </fieldset>
+        </div>
+        <fieldset>
+        <div class="campo">
+          <label for="CPF/CNPJ">CPF/CNPJ</label>
+          <input type="text" nome="CPF/CNPJ" id="CPF/CNPJ" required />
+        </div>
+        <div class="campo">
+          <label for="Telefone">Telefone</label>
+          <input type="text" nome="Telefone" id="Telefone" required />
+        </div>
+      </fieldset>
+      <br/>
+
+      <div class="campo"><label><strong>Cadastrar Pet Shop ou Usuário</strong></label>
+        <label></div>
+      <div class="campo">
+        <input type="radio" nome="usuário" value="usuário" />
+        <label for="Usuário">Usuário
+          </label>
+          <input type="radio" name="petshop" value="petshop">
+          <label for="Pet Shop">Pet Shop
+        </label>
+      </div>
+      <div class="termo">
+        <input type="checkbox" name="termos de uso" id="termos de uso">
+    <label><strong> clicar em concorda com os termos de uso da aplicação hora do banho.</label>
+    
+  </div>
+
+<div>
+          <label><div><button class="botao" type="submit">Cadastrar</button>
+          </div></label>
+        
+          
+    </form>
+  </body>
+</html>
