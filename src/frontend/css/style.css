@@ -3,10 +3,11 @@ header {
 }
 
 h1 img {
-	width: 432px;
-	height: 546px;
-	left: -18px;
-	top: -42px;
+	margin-top: 30px;
+	max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
 }
 
 .caixa {
