@@ -18,7 +18,7 @@ h1 img {
 nav {
 	position: absolute;
 	top: 60px;
-	right: 100px;
+	right: 100px
 }
 
 nav li {
@@ -65,6 +65,7 @@ button a {
 
 .texto_botao {
 	color: #FFFFFF;
+	position: relative;
 }
 
 section {
@@ -75,7 +76,7 @@ section {
 section img {
 	float: left;
 	width: 30%;
-	margin-left: 100px;
+	margin-left: 10% ;
 }
 
 section h2 {
@@ -149,6 +150,7 @@ form input:nth-child(4) {
 	padding: 50px 50px;
 }
 
+<<<<<<< Updated upstream:src/frontend/css/style.css
 .imagemDeFundo{
     background-image: url('../images/gato.PNG'); 
 	width: 100%;
@@ -194,3 +196,5 @@ form input:nth-child(4) {
     height: 40px;
 	background-color:#325288 !important;
 }
+=======
+>>>>>>> Stashed changes:src/style.css
