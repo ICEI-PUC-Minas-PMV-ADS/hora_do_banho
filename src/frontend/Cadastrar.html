@@ -4,13 +4,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="./frontend/css/cadastrar.css" mdeio="">
+    <link rel="stylesheet" type="text/css" href="./css/cadastrar.css" mdeio="">
     <title>Cadastro</title>
   </head>
   <body>
-    <div class="campo">
-      <h1 id="titulo">Cadastro</h1>
-      <p id="subtitulo"><strong>Complete suas informações:</strong></p>
+    <div class="css" ><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/e203c9f4b16ad82f254f93f89064c4a7183f1fd1/src/frontend/assets-img/Pet%20Lover%20imagem.svg"></div>
+    <div class="sub">
+      <p id="subtitulo"><strong>Olá, seja bem vindo! Estamos felizes em ver você por aqui!</strong></p>
       <br />
     </div>
     <form>
@@ -40,29 +40,26 @@
           <input type="text" nome="Telefone" id="Telefone" required />
         </div>
       </fieldset>
-      <br/>
-
-      <div class="campo"><label><strong>Cadastrar Pet Shop ou Usuário</strong></label>
-        <label></div>
-      <div class="campo">
-        <input type="radio" nome="usuário" value="usuário" />
-        <label for="Usuário">Usuário
-          </label>
-          <input type="radio" name="petshop" value="petshop">
-          <label for="Pet Shop">Pet Shop
-        </label>
-      </div>
-      <div class="termo">
-        <input type="checkbox" name="termos de uso" id="termos de uso">
-    <label><strong> clicar em concorda com os termos de uso da aplicação hora do banho.</label>
+      <fieldset><div class="criarsenha">
+        <label for="criarsenha">Criar Senha</label><input type="text" nome="criarsenha" id="criarsenha" required>
+      </fieldset></div>
+    </br>
+      <div><fieldset>
+    <input type="checkbox" name="termos de uso" id="termos de uso">
+    <label><strong>Ao clicar você concorda com os termos de uso da aplicação hora do banho.</strong></label></fieldset>
     
-  </div>
+  </div></form></br>
 
 <div>
-          <label><div><button class="botao" type="submit">Cadastrar</button>
-          </div></label>
+          <label><button class="botao" type="submit">Cadastrar</button>
+         </label>
         
-          
+</div> 
+<div>
+  <label><button class="botao-item" type="submit">Voltar</button>
+ </label>
+
+</div> 
     </form>
   </body>
 </html>

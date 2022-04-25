@@ -3,30 +3,32 @@
   padding: 0;
 }
 
-#tiulo {
-  font-family: inherit ;
-  color: rgb(29, 1, 215);
-  margin-left: 25%;
-  justify-content: center;
-}
+
 
 #subtitulo {
   font-family:inherit ;
-  color:  rgb(5, 5, 82);
-  margin-left: 15%;
-  margin-top: 05%;
-  margin-block-end: 1%;
+  color:  #325288;
+  text-align: right;
+  float: inline-start;
+}
+
+.sub{
+  text-align: center;
+
+  
 }
 
 fieldset {
 border: 0;
+text-align: left;
+border-radius: 2px;
 }
 
 body {
-background-color: rgb(237, 204, 232);
+background-color: #E5E5E5;
 font-family: sans-serif;
 font-size: 1em;
-color:  rgb(5, 5, 82);
+color:  #325288;
 margin-left: 8%;
 margin-top: 5%;
 justify-content: left;
@@ -38,28 +40,59 @@ imput, select, button {
 
   .campo{
     margin-bottom: 1rem;
+    border-radius: 2px;
 
   }
 
 .campo label{
   margin-bottom: 0.2rem;
-  color:rgb(5, 5, 82);
-  display: block;
+  color:#325288;
+  display:block;
+  border-radius: 2px;
+
 }
+
+.css img{
+float: right;
+width: 30%;
+height: 20%;
+padding: 5px;
+display: inline-block;
+margin-block-end: 100%;
+margin-right: 30%;
+
+}
+
 fieldset.grupo.campo{
   float: left;
   margin-right: 2rem;
+  border-radius: 2px;
 }
 
 .campo input[type=text], .campo input[type=email], .campo select, .campo textarea {
+  background: #325288;
+  padding: 0.2rem;
+  border: 1px solid #1305a6 ;
+  box-shadow: 2px 2px 2px;
+  display: inline-block;
+  position: initial;
+  border-radius: 5px;
+  
+}
+
+.criarsenha input[type=text] {
+  background: #708AB6;
   padding: 0.2rem;
   border: 1px solid #1305a6 ;
   box-shadow: 2px 2px 2px;
   display: block;
+  border-radius: 5px;
+  
 }
 
+
 .campo select option{
-  padding-right: 1rem;
+  padding-right: 3rem;
 }
 
 .campo imput:focus, .campo select:focus{
@@ -69,10 +102,10 @@ background: #535356;
 .botao{
   font-family: inherit;
   font-size: 1.5rem;
-  background: rgb(68, 38, 178);
-  border: 1.3px #200fb8;
+  background: #325288;
+  border: 1.3px #325288;
   margin-bottom: 1.3rem;
-  color:#fffeff;
+  color:#fffff8;
   padding:10px 32px;
   top: 10%;
   left: 10%;
@@ -80,25 +113,44 @@ background: #535356;
   margin-left: 20%;
   margin-block-end: 10%;
   transform :translate(50%, 50%);
-  
+  text-align: center;
+  margin: auto;
+  float: left;
+}
+
+.botao-item{
+  font-family: inherit;
+  font-size: 1.5rem;
+  background: #325288;
+  border: 1.3px #325288;
+  margin-bottom: 1.3rem;
+  color:#fffff8;
+  padding:10px 32px;
+  top: 10%;
+  left: 10%;
+  margin-right: -50%;
+  margin-left: 20%;
+  margin-block-end: 10%;
+  transform :translate(50%, 50%);
+  display: inline;
+  text-align: center;
   
 }
 
 .botao:hover {
   background: #0e0388;
-  box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
+  box-shadow: inset 6px 6px 6px 325288;
   text-shadow: none;
   size-adjust: 2.0rem;
 }
 
 .botao, select{
   cursos: pointer;
+  display: inline-block;
 }
 
 .termo {
   font-family: inherit;
   margin-top: 10%;
   
-
-
 }
