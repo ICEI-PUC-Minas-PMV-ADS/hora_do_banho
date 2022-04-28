@@ -1,15 +1,24 @@
+
 *{
   margin: 0;
   padding: 0;
 }
 
+.box {
+  height: 500px;
+}
 
 
-#subtitulo {
+.subtitulo {
   font-family:inherit ;
   color:  #325288;
-  text-align: right;
-  float: inline-start;
+  display: flex;
+  margin-left: 26%;
+  margin-top: 0%;
+  position: absolute;
+  padding: 10px;
+  
+  
 }
 
 .sub{
@@ -24,6 +33,7 @@ text-align: left;
 border-radius: 2px;
 }
 
+
 body {
 background-color: #E5E5E5;
 font-family: sans-serif;
@@ -35,13 +45,15 @@ justify-content: left;
 }
 
 imput, select, button {
-  border-radius: 5px;
+  border-radius: 6px;
   } 
 
   .campo{
     margin-bottom: 1rem;
     border-radius: 2px;
-
+    float: left;
+    position: absolute;
+    
   }
 
 .campo label{
@@ -49,44 +61,65 @@ imput, select, button {
   color:#325288;
   display:block;
   border-radius: 2px;
-
+  
 }
 
-.css img{
+.petlover{
 float: right;
-width: 30%;
 height: 20%;
 padding: 5px;
-display: inline-block;
-margin-block-end: 100%;
-margin-right: 30%;
-
+display: block;
+margin-top: 50px;
+padding-right: 60px;
+width: 500px;
+float: right;
 }
 
-fieldset.grupo.campo{
-  float: left;
-  margin-right: 2rem;
-  border-radius: 2px;
-}
+
 
 .campo input[type=text], .campo input[type=email], .campo select, .campo textarea {
   background: #325288;
-  padding: 0.2rem;
-  border: 1px solid #1305a6 ;
+  padding: 7rem;
   box-shadow: 2px 2px 2px;
-  display: inline-block;
+  position: relative;
+  border-radius: 5px;
+  width: 100%;
+  padding: 12px 60px;
+  margin: 8px 0;
+  height: 16px;
+  display: table;
+  white-space: nowrap;
+  float: left;
+  clear: both;
+  overflow: hidden;
+  line-height: 22px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+
+.campo input[type=texto]{
+  background: #325288;
+  padding: 7rem;
+  box-shadow: 2px 2px 2px;
   position: initial;
   border-radius: 5px;
-  
+  width: 100%;
+  padding: 12px 100px;
+  margin: 8px 0;
+  margin-top: 30px;
+}
+
+fieldset{
+  width: 30%;
 }
 
 .criarsenha input[type=text] {
   background: #708AB6;
   padding: 0.2rem;
-  border: 1px solid #1305a6 ;
   box-shadow: 2px 2px 2px;
   display: block;
   border-radius: 5px;
+  white-space: nowrap;
   
 }
 
@@ -96,7 +129,7 @@ fieldset.grupo.campo{
 }
 
 .campo imput:focus, .campo select:focus{
-background: #535356;
+background: #c5c5d1;
 }
 
 .botao{
@@ -109,13 +142,12 @@ background: #535356;
   padding:10px 32px;
   top: 10%;
   left: 10%;
-  margin-right: -50%;
-  margin-left: 20%;
-  margin-block-end: 10%;
   transform :translate(50%, 50%);
   text-align: center;
-  margin: auto;
+  margin-right: 150px;
   float: left;
+  margin-top: 10px;
+  margin-block-end: 50px;
 }
 
 .botao-item{
@@ -139,18 +171,28 @@ background: #535356;
 
 .botao:hover {
   background: #0e0388;
-  box-shadow: inset 6px 6px 6px 325288;
-  text-shadow: none;
-  size-adjust: 2.0rem;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  display: inline-block;
+  left: 500px;
 }
 
-.botao, select{
-  cursos: pointer;
-  display: inline-block;
+.botao{
+  left: 50%;
 }
+
 
 .termo {
   font-family: inherit;
-  margin-top: 10%;
+  margin-top: 55%;
+
   
 }
