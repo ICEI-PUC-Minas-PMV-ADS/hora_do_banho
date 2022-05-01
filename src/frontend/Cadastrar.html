@@ -1,52 +1,57 @@
 
 <!DOCTYPE html>
-<html lang="Pt-Br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="./css/cadastrar.css">
-    <title>Cadastro</title>
-  </head>
-  <body>
-    <div class="subtitulo">
+<html>
+
+<head>
+<title>Cadastrar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/src/frontend/css/cadastrar.css">
+    
+</head>
+
+<body>
+  <div class="petlover" id="container">
 		<img class="petlover" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/825cd01f0e4fd208bb9dbcf40db19fc6518903ac/src/frontend/assets/img/petLoverImage.svg">
     
-      <p class="subtitulo" id="subtitulo"><strong>Olá, seja bem vindo! Estamos felizes em ter você por aqui!</strong></p></div>
-      <br />
-    </div>
-    <label>
-      <div id="campo" class="campo">
-      <form class="campo" id="campo">
-				
-				<input type="texto" id="e-mail" required placeholder="E-mail:">
-
-				<fieldset><input type="text" id="Nome" required placeholder="Nome:">
-
-				<input type="text" id="Sobrenome:" required placeholder="Sobrenome:">
-
-				<input type="text" id="Telefone:" required placeholder="Telefone:">
-
-        <input type="text" id="CPF/CNPJ:" required placeholder="CPF/CNPJ:"></fieldset>
-
-        <input type="texto" id="Criar senha:" required placeholder="Criar Senha:">
-        
-			</form>
-    </div>
-  </label>
-      
-      <div class="termo">
-        <input type="checkbox" name="termos de uso" id="termos de uso">
-    <label><strong> clicar em concorda com os termos de uso da aplicação hora do banho.</label>
-    
-  </div>
+     <p class="subtitulo" id="subtitulo"><strong>Olá, seja bem vindo! Estamos felizes em ter você por aqui!</strong></p></div>
+    </body>
+</head>
+<head>
+<body>
+<form class="campo" id="campo" name="Cadastrar2">
 
 
-          <div><button class="botao" type="submit">Cadastrar</button></div>
+  <input type="email" id="emailid" placeholder="E-mail" name="email" />
+  <label for="email"></label>
 
-          <div><button class="botao" type="submit">voltar</button>
-            </div>
-        
-  </body>
+  <input type="text" id="nomeid" placeholder="Nome" required="required" name="nome" />
+  <label for="nome"></label>
+
+  <input type="text" id="sobrenomeid" placeholder="Sobrenome" required="required" name="sobrenome" />
+  <label for="sobrenome"></label>
+
+  <input type="text" id="foneid" placeholder="Telefone" name="fone" />
+  <label for="fone"></label>
+
+  <input type="text" id="CEPid" placeholder="CEP" name="fone" />
+  <label  for="CEP"></label>
+
+
+  <input type="senha" id="Criarsenha" placeholder="Criar Senha" name="Criar senha" />
+  <label for="senha"></label>
+
+  <div class="termo">
+    <input class="click" type="checkbox" name="termos de uso" id="termos de uso">
+<strong> clicar em concorda com os termos de uso da aplicação hora do banho.
+
+</div>
+
+  <div><button class="botao" type="submit" onclick="Cadastrar();" value="Cadastar"/>Cadastrar</button></div>
+
+  <div><button class="botao2" type="submit" onclick="voltar();" value="voltar"/>Voltar</button></div>
+
+
+</form><script src="/hora_do_banho/cadastrar.js"></script>
+</head>
+</body>
 </html>
-
