@@ -3,3 +3,12 @@
 ################################################################################
 
 /src/backend/.vs/HoraDoBanho
+/src/backend/HoraDoBanho.Api/obj
+/src/backend/HoraDoBanho.Domain/bin/Debug/netcoreapp3.1
+/src/backend/HoraDoBanho.Domain/obj
+/src/backend/HoraDoBanho.Infra.CrossCutting.IoC/obj
+/src/backend/HoraDoBanho.Infra.Data/bin/Debug/netcoreapp3.1
+/src/backend/HoraDoBanho.Infra.Data/obj
+/src/backend/.vs/hb
+/src/backend/HoraDoBanho.Api/bin/Debug/netcoreapp3.1
+/src/backend/HoraDoBanho.Infra.CrossCutting.IoC/bin/Debug/netcoreapp3.1
