@@ -1,68 +1,52 @@
+
 <!DOCTYPE html>
 <html lang="Pt-Br">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="./frontend/css/cadastrar.css" mdeio="">
+    <link rel="stylesheet" type="text/css" href="./css/cadastrar.css">
     <title>Cadastro</title>
   </head>
   <body>
-    <div class="campo">
-      <h1 id="titulo">Cadastro</h1>
-      <p id="subtitulo"><strong>Complete suas informações:</strong></p>
+    <div class="subtitulo">
+		<img class="petlover" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/825cd01f0e4fd208bb9dbcf40db19fc6518903ac/src/frontend/assets/img/petLoverImage.svg">
+    
+      <p class="subtitulo" id="subtitulo"><strong>Olá, seja bem vindo! Estamos felizes em ter você por aqui!</strong></p></div>
       <br />
     </div>
-    <form>
-      <fieldset class="grupo">
-        <div class="campo">
-          <label for="email">Digite seu email</label>
-          <input type="email" nome="email" id="email" required />
-        </div>
-      </fieldset>
-      <fieldset>
-        <div class="campo">
-          <label for="nome">Nome</label>
-          <input type="text" nome="nome" id="nome" required />
-        </div>
-        <div class="campo">
-          <label for="sobrenome">Sobrenome</label>
-          <input type="text" nome="sobrenome" id="sobrenome" required/>
-        </fieldset>
-        </div>
-        <fieldset>
-        <div class="campo">
-          <label for="CPF/CNPJ">CPF/CNPJ</label>
-          <input type="text" nome="CPF/CNPJ" id="CPF/CNPJ" required />
-        </div>
-        <div class="campo">
-          <label for="Telefone">Telefone</label>
-          <input type="text" nome="Telefone" id="Telefone" required />
-        </div>
-      </fieldset>
-      <br/>
+    <label>
+      <div id="campo" class="campo">
+      <form class="campo" id="campo">
+				
+				<input type="texto" id="e-mail" required placeholder="E-mail:">
 
-      <div class="campo"><label><strong>Cadastrar Pet Shop ou Usuário</strong></label>
-        <label></div>
-      <div class="campo">
-        <input type="radio" nome="usuário" value="usuário" />
-        <label for="Usuário">Usuário
-          </label>
-          <input type="radio" name="petshop" value="petshop">
-          <label for="Pet Shop">Pet Shop
-        </label>
-      </div>
+				<fieldset><input type="text" id="Nome" required placeholder="Nome:">
+
+				<input type="text" id="Sobrenome:" required placeholder="Sobrenome:">
+
+				<input type="text" id="Telefone:" required placeholder="Telefone:">
+
+        <input type="text" id="CPF/CNPJ:" required placeholder="CPF/CNPJ:"></fieldset>
+
+        <input type="texto" id="Criar senha:" required placeholder="Criar Senha:">
+        
+			</form>
+    </div>
+  </label>
+      
       <div class="termo">
         <input type="checkbox" name="termos de uso" id="termos de uso">
     <label><strong> clicar em concorda com os termos de uso da aplicação hora do banho.</label>
     
   </div>
 
-<div>
-          <label><div><button class="botao" type="submit">Cadastrar</button>
-          </div></label>
+
+          <div><button class="botao" type="submit">Cadastrar</button></div>
+
+          <div><button class="botao" type="submit">voltar</button>
+            </div>
         
-          
-    </form>
   </body>
 </html>
+
