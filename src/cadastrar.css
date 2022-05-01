@@ -1,40 +1,45 @@
 *{
-  margin: 0;
-  padding: 0;
+
+    margin: 0;
+    padding: 0;
+  
 }
 
-#tiulo {
-  font-family: inherit ;
-  color: rgb(29, 1, 215);
-  margin-left: 5%;
-  justify-content: center;
-  position: relative;
-}
-
-#subtitulo {
+.subtitulo {
   font-family:inherit ;
-  color:  rgb(5, 5, 82);
+  color:  #325288;
+  margin-top: 0%;
   margin-left: 15%;
-  margin-top: 2%;
-  margin-block-end: 1%;
+  display: inline;
+  float: right;
+
 
 }
 
-
-fieldset {
-border: 0;
-margin-top: 10%;
-text-align: left;
-}
-
+.petlover{
+  height: 80%;
+  padding: 5px;
+  display:inline;
+  margin-top: 05%;
+  padding: 0 20px;
+  width: 500px;
+  margin-left: 35%;
+  position:absolute;
+  
+  
+  }
 
 body {
 background-color:#E5E5E5;
 font-family: sans-serif;
 font-size: 1em;
-color:  rgb(5, 5, 82);
+color:  #325288;
 margin-left: 8%;
 justify-content: left;
+display: inline-block;
+float: left;
+height: 200px;
+
 }
 
 imput, select, button {
@@ -43,24 +48,13 @@ imput, select, button {
 
   .campo{
     margin-bottom: 1rem;
+    margin-top: 20%;
    
   }
 
-.campo label{
-  margin-bottom: 0.2rem;
-  color:rgb(5, 5, 82);
-  display: block;
-   
-}
-
-fieldset.grupo.campo{
-  float: left;
-  position: relative;
-  
-}
 
 
-.campo input[type=text], .campo input[type=email], .campo select, .campo textarea {
+.campo input[type="email"], .campo input[type=email], .campo select, .campo textarea {
   padding: 0.6rem;
   border: 1px solid #1305a6 ;
   box-shadow: 6px 6px 6px;
@@ -68,8 +62,40 @@ fieldset.grupo.campo{
   background-color: #325288;
   border-radius: 5px;
   width: 30%;
+  margin-left: 05%;
+  margin-top: 20%;
+  padding: 20px 160px;
+  left: 200px;
   
+}
 
+
+
+.campo input[type="text"], .campo input[type="text"], .campo select, .campo textarea{
+  padding: 0.6rem;
+  border: 1px solid #1305a6 ;
+  box-shadow: 6px 6px 6px;
+  display: inline-block;
+  background-color: #325288;
+  border-radius: 5px;
+  width: 30%;
+  margin-top: 5%;
+  margin-left: 05%;
+  padding: 12px 15px;
+  
+}
+
+.campo input[type="senha"], .campo input[type="senha"], .campo select, .campo textarea{
+  padding: 0.6rem;
+  border: 1px solid #1305a6 ;
+  box-shadow: 6px 6px 6px;
+  display: block;
+  background-color: #708AB6;
+  border-radius: 5px;
+  width: 30%;
+  margin-top: 5%;
+  padding: 12px 70px;
+  margin-left: 15%;
 }
 
 
@@ -81,22 +107,38 @@ fieldset.grupo.campo{
 background: #325288;
 }
 
+
 .botao{
   font-family: inherit;
   font-size: 1.5rem;
   background: #325288;
-  border: 1.3px #200fb8;
+  border: 1.3px #325288;
   margin-bottom: 1.3rem;
-  color:#fffeff;
+  color:#fffff8;
   padding:10px 32px;
   top: 10%;
-  left: 10%;
-  margin-right: -50%;
-  margin-left: 20%;
-  margin-block-end: 10%;
   transform :translate(50%, 50%);
-  display: inline-block;
+  display:block;
+  text-align: center;
+  float: left;
+  margin-left: 10%;
+  margin-block-end: 20%;
+  margin-bottom: 10%;
   
+}
+.botao2{
+  font-family: inherit;
+  font-size: 1.5rem;
+  background: #325288;
+  border: 1.3px #325288;
+  margin-bottom: 1.3rem;
+  color:#fffff8;
+  padding:10px 32px;
+  transform :translate(50%, 50%);
+  display:block;
+  text-align: center;
+  float: left;
+  margin-left: 20%;
   
 }
 
@@ -105,16 +147,39 @@ background: #325288;
   box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
   text-shadow: none;
   size-adjust: 2.0rem;
+  display: inline-block;
+  left: 500px;
+  cursor: pointer;
+
+}
+
+.botao2:hover {
+  background: #0e0388;
+  box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
+  text-shadow: none;
+  size-adjust: 2.0rem;
+  display: inline-block;
+  left: 500px;
+  cursor: pointer;
+
 }
 
 .botao, select{
   cursos: pointer;
+
 }
 
 .termo {
   font-family: inherit;
-  margin-top: 10%;
+  margin-top: 100px;
+  margin-left: 20%;
+  font-size: 16px;
   
 
 
+}
+
+.click checkbox{
+  border: solid 3px #325288;
+  
 }
