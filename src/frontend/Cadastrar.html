@@ -1,68 +1,57 @@
+
 <!DOCTYPE html>
-<html lang="Pt-Br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="./frontend/css/cadastrar.css" mdeio="">
-    <title>Cadastro</title>
-  </head>
-  <body>
-    <div class="campo">
-      <h1 id="titulo">Cadastro</h1>
-      <p id="subtitulo"><strong>Complete suas informações:</strong></p>
-      <br />
-    </div>
-    <form>
-      <fieldset class="grupo">
-        <div class="campo">
-          <label for="email">Digite seu email</label>
-          <input type="email" nome="email" id="email" required />
-        </div>
-      </fieldset>
-      <fieldset>
-        <div class="campo">
-          <label for="nome">Nome</label>
-          <input type="text" nome="nome" id="nome" required />
-        </div>
-        <div class="campo">
-          <label for="sobrenome">Sobrenome</label>
-          <input type="text" nome="sobrenome" id="sobrenome" required/>
-        </fieldset>
-        </div>
-        <fieldset>
-        <div class="campo">
-          <label for="CPF/CNPJ">CPF/CNPJ</label>
-          <input type="text" nome="CPF/CNPJ" id="CPF/CNPJ" required />
-        </div>
-        <div class="campo">
-          <label for="Telefone">Telefone</label>
-          <input type="text" nome="Telefone" id="Telefone" required />
-        </div>
-      </fieldset>
-      <br/>
+<html>
 
-      <div class="campo"><label><strong>Cadastrar Pet Shop ou Usuário</strong></label>
-        <label></div>
-      <div class="campo">
-        <input type="radio" nome="usuário" value="usuário" />
-        <label for="Usuário">Usuário
-          </label>
-          <input type="radio" name="petshop" value="petshop">
-          <label for="Pet Shop">Pet Shop
-        </label>
-      </div>
-      <div class="termo">
-        <input type="checkbox" name="termos de uso" id="termos de uso">
-    <label><strong> clicar em concorda com os termos de uso da aplicação hora do banho.</label>
+<head>
+<title>Cadastrar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/src/frontend/css/cadastrar.css">
     
-  </div>
+</head>
 
-<div>
-          <label><div><button class="botao" type="submit">Cadastrar</button>
-          </div></label>
-        
-          
-    </form>
-  </body>
+<body>
+  <div class="petlover" id="container">
+		<img class="petlover" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/825cd01f0e4fd208bb9dbcf40db19fc6518903ac/src/frontend/assets/img/petLoverImage.svg">
+    
+     <p class="subtitulo" id="subtitulo"><strong>Olá, seja bem vindo! Estamos felizes em ter você por aqui!</strong></p></div>
+    </body>
+</head>
+<head>
+<body>
+<form class="campo" id="campo" name="Cadastrar2">
+
+
+  <input type="email" id="emailid" placeholder="E-mail" name="email" />
+  <label for="email"></label>
+
+  <input type="text" id="nomeid" placeholder="Nome" required="required" name="nome" />
+  <label for="nome"></label>
+
+  <input type="text" id="sobrenomeid" placeholder="Sobrenome" required="required" name="sobrenome" />
+  <label for="sobrenome"></label>
+
+  <input type="text" id="foneid" placeholder="Telefone" name="fone" />
+  <label for="fone"></label>
+
+  <input type="text" id="CEPid" placeholder="CEP" name="fone" />
+  <label  for="CEP"></label>
+
+
+  <input type="senha" id="Criarsenha" placeholder="Criar Senha" name="Criar senha" />
+  <label for="senha"></label>
+
+  <div class="termo">
+    <input class="click" type="checkbox" name="termos de uso" id="termos de uso">
+<strong> clicar em concorda com os termos de uso da aplicação hora do banho.
+
+</div>
+
+  <div><button class="botao" type="submit" onclick="Cadastrar();" value="Cadastar"/>Cadastrar</button></div>
+
+  <div><button class="botao2" type="submit" onclick="voltar();" value="voltar"/>Voltar</button></div>
+
+
+</form><script src="/hora_do_banho/cadastrar.js"></script>
+</head>
+</body>
 </html>
