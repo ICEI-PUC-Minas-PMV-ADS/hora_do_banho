@@ -1,17 +1,20 @@
 *{
 
     margin: 0;
-    padding: 0;
-  
+    padding: 1px;
+    
+    
 }
 
 .subtitulo {
   font-family:inherit ;
   color:  #325288;
-  margin-top: 0%;
-  margin-left: 15%;
-  display: inline;
+  margin-top: 5%;
+  display: block;
   float: right;
+  position:relative;
+  margin-bottom: 0%;
+ 
 
 
 }
@@ -20,12 +23,12 @@
   height: 80%;
   padding: 5px;
   display:inline;
-  margin-top: 05%;
+  margin-top: 10%;
   padding: 0 20px;
   width: 500px;
   margin-left: 35%;
   position:absolute;
-  
+  margin-bottom: 20%;
   
   }
 
@@ -34,11 +37,12 @@ background-color:#E5E5E5;
 font-family: sans-serif;
 font-size: 1em;
 color:  #325288;
-margin-left: 8%;
+margin-left: 4%;
 justify-content: left;
 display: inline-block;
-float: left;
 height: 200px;
+margin-bottom: 20%;
+margin: 10px;
 
 }
 
@@ -61,9 +65,9 @@ imput, select, button {
   display: block;
   background-color: #325288;
   border-radius: 5px;
-  width: 30%;
+  width: 25%;
   margin-left: 05%;
-  margin-top: 20%;
+  margin-top: 0%;
   padding: 20px 160px;
   left: 200px;
   
@@ -78,8 +82,8 @@ imput, select, button {
   display: inline-block;
   background-color: #325288;
   border-radius: 5px;
-  width: 30%;
-  margin-top: 5%;
+  width: 25%;
+  margin-top: 10%;
   margin-left: 05%;
   padding: 12px 15px;
   
@@ -93,9 +97,10 @@ imput, select, button {
   background-color: #708AB6;
   border-radius: 5px;
   width: 30%;
-  margin-top: 5%;
+  margin-top: 10%;
   padding: 12px 70px;
-  margin-left: 15%;
+  margin-left: 10%;
+  
 }
 
 
@@ -113,17 +118,16 @@ background: #325288;
   font-size: 1.5rem;
   background: #325288;
   border: 1.3px #325288;
-  margin-bottom: 1.3rem;
+  margin-bottom: 30%;
   color:#fffff8;
   padding:10px 32px;
   top: 10%;
   transform :translate(50%, 50%);
-  display:block;
-  text-align: center;
   float: left;
-  margin-left: 10%;
-  margin-block-end: 20%;
-  margin-bottom: 10%;
+  margin-right: 15%;
+  margin-bottom: 20%;
+  margin-top: 1%;
+
   
 }
 .botao2{
@@ -131,14 +135,15 @@ background: #325288;
   font-size: 1.5rem;
   background: #325288;
   border: 1.3px #325288;
-  margin-bottom: 1.3rem;
+  margin-bottom: 20%;
   color:#fffff8;
   padding:10px 32px;
   transform :translate(50%, 50%);
-  display:block;
   text-align: center;
   float: left;
-  margin-left: 20%;
+  margin-left: 10%;
+  margin-top: 1%;
+  
   
 }
 
@@ -147,9 +152,8 @@ background: #325288;
   box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
   text-shadow: none;
   size-adjust: 2.0rem;
-  display: inline-block;
   left: 500px;
-  cursor: pointer;
+  
 
 }
 
@@ -158,28 +162,18 @@ background: #325288;
   box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
   text-shadow: none;
   size-adjust: 2.0rem;
-  display: inline-block;
   left: 500px;
-  cursor: pointer;
+  
 
 }
 
-.botao, select{
-  cursos: pointer;
-
-}
 
 .termo {
   font-family: inherit;
-  margin-top: 100px;
-  margin-left: 20%;
+  margin-top: 20%;
+  margin-left: 10%;
   font-size: 16px;
+  margin-bottom: 30%;
   
-
-
-}
-
-.click checkbox{
-  border: solid 3px #325288;
   
 }
