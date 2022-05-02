@@ -1,29 +1,47 @@
-.img-reset{ background-image:url("../assets/img/gatoReset.svg");
-position : absolute;
+html {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.img-reset{ 
+width: 100%;
+height: 100%;
+background-image:url("../assets/img/gatoReset.svg");
 background-size: cover;
-background-repeat: no-repeat;
+opacity: 1;
+display: flex;
+justify-content: flex-end;
+align-items: center;
 
 }
 .rectangle-img{
   background-color: #C4C4C4;
-	width: 50%;
-	height: 80%;
+	width: 40%;
+	height: 70%;
 	opacity: 0.75;
   border-radius: 40px;
-  margin-left: 50%;
-  margin-right: 50%;
+  margin-left: 20%;
+  margin-right: 40%;
   position: absolute;
-	top: 200%
+	top: 100%
 
   
 }
 .img-logo{ 
   width: 40%;
-	height: 40%;
-  margin-left: 50%;
-  margin-right: 50%;
+	height: 30%;
+  margin-left: 20%;
+  margin-right: 30%;
   position: absolute;
-	top: 210%
+	top: 110%
 }
 
 
