@@ -1,0 +1,26 @@
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\appsettings.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\Hora do Banho Teste.staticwebassets.runtime.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\Hora do Banho Teste.exe
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\Hora do Banho Teste.deps.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\Hora do Banho Teste.runtimeconfig.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\Hora do Banho Teste.dll
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\bin\Debug\net6.0\Hora do Banho Teste.pdb
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.csproj.AssemblyReference.cache
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.AssemblyInfoInputs.cache
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.AssemblyInfo.cs
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.csproj.CoreCompileInputs.cache
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.RazorAssemblyInfo.cache
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.RazorAssemblyInfo.cs
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\scopedcss\bundle\Hora do Banho Teste.styles.css
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\scopedcss\projectbundle\Hora do Banho Teste.bundle.scp.css
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.dll
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\refint\Hora do Banho Teste.dll
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.pdb
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\Hora do Banho Teste.genruntimeconfig.cache
+C:\Users\Ceva\source\repos\Hora do Banho Teste\Hora do Banho Teste\obj\Debug\net6.0\ref\Hora do Banho Teste.dll
