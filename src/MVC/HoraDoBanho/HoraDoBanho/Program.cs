@@ -7,9 +7,14 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json")
+                .Build();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<SqlServerDbContext>(opt => opt.UseInMemoryDatabase("HB"));
+builder.Services.AddDbContext<SqlServerDbContext>(opt => opt.UseSqlServer(configuration.GetConnectionString("horaDoBanho")));
 builder.Services.AddScoped<ILoginRepository, LoginRepository>();
 builder.Services.AddScoped<ILoginService, LoginService>();
 

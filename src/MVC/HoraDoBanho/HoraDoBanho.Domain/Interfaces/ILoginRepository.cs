@@ -1,4 +1,5 @@
-﻿using HoraDoBanho.Domain.Models;
+﻿using HoraDoBanho.Domain.Entity;
+using HoraDoBanho.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace HoraDoBanho.Domain.Interfaces
 {
-    public interface ILoginRepository : IAsyncRepository<LoginModel>
+    public interface ILoginRepository : IAsyncRepository<LoginEntity>
     {
-        Task<LoginModel> BuscarDadosUsuario(string usuario);
+        Task<LoginEntity> BuscarDadosUsuario(string usuario);
     }
 }

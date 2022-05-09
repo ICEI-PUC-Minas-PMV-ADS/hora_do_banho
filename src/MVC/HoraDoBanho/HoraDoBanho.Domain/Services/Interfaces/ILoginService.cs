@@ -9,7 +9,6 @@ namespace HoraDoBanho.Domain.Services.Interfaces
 {
     public interface ILoginService : IDisposable
     {
-        Task InserirLoginTeste();
         Task<RetornoBase> ValidarLogin(LoginModel loginModel);
     }
 }

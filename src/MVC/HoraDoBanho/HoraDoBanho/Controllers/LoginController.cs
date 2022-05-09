@@ -16,7 +16,6 @@ namespace HoraDoBanho.Controllers
 
         public IActionResult Index()
         {
-            _loginService.InserirLoginTeste();
             return View();
         }
 
@@ -28,7 +27,7 @@ namespace HoraDoBanho.Controllers
                 UserName = login.UserName,
                 Password = login.Password
             };
-            RetornoBase retorno = _loginService.ValidarLogin(loginModel).Result;
+            Domain.Models.RetornoBase retorno = _loginService.ValidarLogin(loginModel).Result;
 
             login.Sucesso = retorno.Sucesso;
             login.Mensagem = retorno.MsgRetorno;

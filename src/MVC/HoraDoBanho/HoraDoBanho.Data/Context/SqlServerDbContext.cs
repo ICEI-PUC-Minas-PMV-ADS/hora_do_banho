@@ -1,4 +1,4 @@
-﻿using HoraDoBanho.Domain.Models;
+﻿using HoraDoBanho.Domain.Entity;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,6 +14,6 @@ namespace HoraDoBanho.Data.Context
   : base(options)
         { }
 
-        public DbSet<LoginModel> Login { get; set; }
+        public DbSet<LoginEntity> Login { get; set; }
     }
 }

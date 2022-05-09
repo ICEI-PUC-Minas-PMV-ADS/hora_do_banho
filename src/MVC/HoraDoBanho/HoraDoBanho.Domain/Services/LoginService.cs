@@ -1,4 +1,5 @@
-﻿using HoraDoBanho.Domain.Interfaces;
+﻿using HoraDoBanho.Domain.Entity;
+using HoraDoBanho.Domain.Interfaces;
 using HoraDoBanho.Domain.Models;
 using HoraDoBanho.Domain.Services.Interfaces;
 using System;
@@ -21,30 +22,15 @@ namespace HoraDoBanho.Domain.Services
 
         public async Task<RetornoBase> ValidarLogin(LoginModel model)
         {
-            LoginModel loginRepository = await _loginRepository.BuscarDadosUsuario(model.UserName);
+            LoginEntity loginRepository = await _loginRepository.BuscarDadosUsuario(model.UserName);
 
-            if (loginRepository != null && loginRepository.Password == GerarHashMd5(model.Password))
+            if (loginRepository != null && loginRepository.password == GerarHashMd5(model.Password))
             {
                 return new RetornoBase() { Sucesso = true };
             }
             else
             {
                 return new RetornoBase() { Sucesso = false, MsgRetorno = "E-mail ou senha inválidos" };
-            }
-        }
-
-        public async Task InserirLoginTeste()
-        {
-            LoginModel loginRepository = await _loginRepository.BuscarDadosUsuario("crislaine.silva@sga.pucminas.br");
-
-            if (loginRepository == null)
-            {
-                await _loginRepository.IncluiAsync(new LoginModel()
-                {
-                    IdUsuario = 0,
-                    Password = GerarHashMd5("123456"),
-                    UserName = "crislaine.silva@sga.pucminas.br"
-                });
             }
         }
 
