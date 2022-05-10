@@ -1,47 +1,37 @@
-html {
-  font-size: 16px;
-  font-family: "Roboto", sans-serif;
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
 *{
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  color:#325288
+}
+body
+{
+    background-image: url("gatoReset.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center ;
 }
 
-.img-reset{ 
-width: 100%;
-height: 100%;
-background-image:url("../assets/img/gatoReset.svg");
-background-size: cover;
-opacity: 1;
-display: flex;
-justify-content: flex-end;
-align-items: center;
-
-}
-.rectangle-img{
-  background-color: #C4C4C4;
-	width: 40%;
-	height: 70%;
-	opacity: 0.75;
-  border-radius: 40px;
-  margin-left: 20%;
-  margin-right: 40%;
-  position: absolute;
-	top: 100%
-
+.modal-reset{
+  position: fixed;
+  padding:0;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
   
-}
-.img-logo{ 
-  width: 40%;
-	height: 30%;
-  margin-left: 20%;
-  margin-right: 30%;
-  position: absolute;
-	top: 110%
+  /*opacity: 0;
+  visibility:hidden;
+  transition:visibility 0.25s ease-in-out, transform 0.25s ease-in-out,opacity 0.25s ease-in-out;*/
+} 
+.modal-content{
+  background-color: #c4c4c4;
+  padding: 16px 24px;
+  width: 364px;
+  border: radius 0.5rem;
+} 
+
 }
 
 
