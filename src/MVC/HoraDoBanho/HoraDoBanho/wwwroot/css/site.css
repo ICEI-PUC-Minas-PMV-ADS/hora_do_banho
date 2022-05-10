@@ -1,0 +1,122 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+
+
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.camposEntrar {
+    width: 90%;
+    background-color: #325288;
+    color: white;
+}
+
+.textosEntrar {
+    color: #325288;
+}
+
+.buttonEntrar {
+    color: white;
+    width: 20%;
+    height: 30px;
+    background-color: #325288 !important;
+}
+
+.rowEntrar{
+    height:900px;
+}
+
+.mensagemRetornoEntrar {
+    color: red;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .quadroFundoEntrar {
+        background-color: #C4C4C4;
+        opacity: 0.75;
+        left: 0;
+        right: 0;
+        border-radius: 40px;
+        position: relative;
+        top:10%;
+    }
+    .logoEntrarTransparente {
+        width: 90%;
+        padding-top: 10%;
+    }
+
+    .btnVoltar {
+        padding-right: 20px;
+        padding-top: 20px;
+        text-align: right;
+    }
+
+    .divCamposEntrar {
+        text-align:center;
+    }
+
+    .imagemDeFundo {
+        background-image: url('/assets/gato.PNG');
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+        background-color: #fff;
+        background-repeat: no-repeat;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 768px) {
+    .quadroFundoEntrar {
+        background-color: #C4C4C4;
+        max-width:40%;
+        opacity: 0.75;
+        left: 0;
+        right: 0;
+        margin-left: 10%;
+        margin-right: auto;
+        top: 30%;
+        border-radius: 40px;
+        position:relative;
+    }
+    .logoEntrarTransparente {
+        width: 90%;
+        padding-top: 10%;
+    }
+
+    .imagemDeFundo {
+        background-image: url('/assets/gato.PNG');
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+        background-color: #fff;
+        background-repeat: no-repeat;
+    }
+
+    .btnVoltar {
+        padding-right: 20px;
+        padding-top: 20px;
+        text-align: right;
+    }
+}
