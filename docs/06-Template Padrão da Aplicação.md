@@ -19,3 +19,9 @@ As cores foram escolhidas de acordo com o que queremos passar com a nossa aplica
 
 Usamos tons de verde que tem relação com conceitos de saúde, ambiente calmo e tranquilo, os tons de rosa para se referir ao amor e ternura e o azul que está 
 relacionado a tranquilidade e harmonia.
+
+### Tipografia
+As fontes utilizadas na aplicação são Montserrat e Rubik, e seguem as seguintes definições de tamanho e estilização, como pode ser observado na Figura 20:
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Tipografia%20(1).png)
+Figura 20 – Tipografia e Fontes utilizadas
