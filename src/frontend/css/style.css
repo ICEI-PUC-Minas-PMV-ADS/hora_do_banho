@@ -42,6 +42,13 @@ nav a {
 	text-decoration: none;
 }
 
+a img {
+	position: absolute;
+	width: 6%;
+	margin-top: -30px;
+	padding: 7px;
+}
+
 main {
 	background: #FAEEE7;
 }
