@@ -25,3 +25,13 @@ As fontes utilizadas na aplicação são Montserrat e Rubik, e seguem as seguint
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Tipografia%20(1).png)
 Figura 20 – Tipografia e Fontes utilizadas
+
+
+### Componentes
+Dentre nossos principais componentes personalizados estão os botões e inputs, conforme pode ser visto na Figura 21:
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Bot%C3%B5es.png)
+Figura 21 – Principais componentes visuais da aplicação
+
+### Ícones
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Icons.png)
+Figura 22 – Iconografia
