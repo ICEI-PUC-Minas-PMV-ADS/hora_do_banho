@@ -27,3 +27,6 @@
 /src/MVC/HoraDoBanho/HoraDoBanho.Data/obj
 /src/MVC/HoraDoBanho/HoraDoBanho.Domain/bin/Debug/net6.0
 /src/MVC/HoraDoBanho/HoraDoBanho.Domain/obj
+/src/MVC/HoraDoBanho/HoraDoBanho/bin/Release/net6.0
+/src/MVC/HoraDoBanho/HoraDoBanho.Domain/bin/Release/net6.0
+/src/MVC/HoraDoBanho/HoraDoBanho.Data/bin/Release/net6.0
