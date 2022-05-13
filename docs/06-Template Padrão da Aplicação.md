@@ -29,9 +29,27 @@ Figura 20 – Tipografia e Fontes utilizadas
 
 ### Componentes
 Dentre nossos principais componentes personalizados estão os botões e inputs, conforme pode ser visto na Figura 21:
+
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Bot%C3%B5es.png)
 Figura 21 – Principais componentes visuais da aplicação
 
 ### Ícones
+
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Icons.png)
 Figura 22 – Iconografia
+
+
+## Aplicação nas telas e fluxos:
+
+### Tela - LandingPage / Login 
+
+A tela inicial ou LandingPage apresentada na *Figura 23* permite visualizar depoimentos e informações sobre os serviços e ao clicar no icon entrar abre um modal conforme explicado no tópico *Modal - Login* que segue. 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Home.png)
+Figura 23 – LandingPage
+
+### Modal - Login 
+O modal que se abre ao clicar no icon entrar no canto superior direito do cabeçalho permite ao usuário fazer login na aplicação, preenchendo suas credenciais conforme orientado. Além disso, o usuário pode ser direcionado para se cadastrar na opção “ Ainda não tem uma conta?” e para redefinir a senha da conta na opção "Esqueci a senha". O modal em questão pode ser visualizado conforme *Figura 24*.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Login.png)
+Figura 24 – Modal Login
