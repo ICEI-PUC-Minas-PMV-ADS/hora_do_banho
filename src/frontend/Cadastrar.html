@@ -1,57 +1,59 @@
-
 <!DOCTYPE html>
 <html>
 
 <head>
 <title>Cadastrar</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="/src/frontend/css/cadastrar.css">
+  <link rel="stylesheet" type="text/css" href="CADASTRO.css">
     
 </head>
 
 <body>
   <div class="petlover" id="container">
-		<img class="petlover" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/825cd01f0e4fd208bb9dbcf40db19fc6518903ac/src/frontend/assets/img/petLoverImage.svg">
+		
     
-     <p class="subtitulo" id="subtitulo"><strong>Olá, seja bem vindo! Estamos felizes em ter você por aqui!</strong></p></div>
+     <p class="subtitulo" id="subtitulo"><strong>Olá, seja bem vindo !</strong></p>
+    
     </body>
 </head>
 <head>
 <body>
+    
 <form class="campo" id="campo" name="Cadastrar2">
 
-
-  <input type="email" id="emailid" placeholder="E-mail" name="email" />
+<div class="text">
+  <input class="camposs" type="email" id="emailid" placeholder="E-mail" name="email" required="required"/>
   <label for="email"></label>
 
-  <input type="text" id="nomeid" placeholder="Nome" required="required" name="nome" />
+  <input class="campos" type="text" id="nomeid" placeholder="Nome" required="required" name="nome" />
   <label for="nome"></label>
 
-  <input type="text" id="sobrenomeid" placeholder="Sobrenome" required="required" name="sobrenome" />
+  <input class="campos" type="text" id="sobrenomeid" placeholder="Sobrenome" required="required" name="sobrenome" />
   <label for="sobrenome"></label>
 
-  <input type="text" id="foneid" placeholder="Telefone" name="fone" />
+  <input class="campos" type="text" id="foneid" placeholder="Telefone" name="fone" required="required" />
   <label for="fone"></label>
 
-  <input type="text" id="CEPid" placeholder="CEP" name="fone" />
+  <input class="campos" type="text" id="CEPid" placeholder="CEP" name="CEP" required="required" />
   <label  for="CEP"></label>
 
 
-  <input type="senha" id="Criarsenha" placeholder="Criar Senha" name="Criar senha" />
+  <input class="camposs" type="senha" id="Criarsenha" placeholder="Criar Senha" name="Criar senha" required="required" />
   <label for="senha"></label>
-
-  <div class="termo">
-    <input class="click" type="checkbox" name="termos de uso" id="termos de uso">
-<strong> clicar em concorda com os termos de uso da aplicação hora do banho.
-
 </div>
 
-  <div><button class="botao" type="submit" onclick="Cadastrar();" value="Cadastar"/>Cadastrar</button></div>
+  <div class="termos">
+    <input class="click" type="checkbox" name="termos de uso" id="termos de uso">
+<label class="texto" for=""> clicar em concorda com os <b class="termo">Termos e Condições de Uso </b> da aplicação hora do banho.</label>
+  </div>
 
-  <div><button class="botao2" type="submit" onclick="voltar();" value="voltar"/>Voltar</button></div>
+  <div class="button"><button class="botao" type="submit" onclick="Cadastrar();" value="Cadastar">Cadastrar</button>
 
+  <button class="botao2" type="submit" onclick="voltar();" value="voltar">Voltar</button></div>
 
-</form><script src="/hora_do_banho/cadastrar.js"></script>
+</form>
+</div>
+<script src=""></script>
 </head>
 </body>
 </html>
