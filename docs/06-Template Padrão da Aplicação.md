@@ -53,3 +53,17 @@ O modal que se abre ao clicar no icon entrar no canto superior direito do cabeç
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Login.png)
 Figura 24 – Modal Login
+
+### Fluxo de Telas - Cadastro de Usuário 
+O fluxo de *Cadastro de Usuário* ilustrado na *Figura 25* permite ao usuário se cadastrar na aplicação caso este ainda não possua uma conta, seguindo um formulário solicitando informações obrigatórias de acordo com o tipo de perfil a ser criado.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Pet%20Lover.png)
+Figura 25 – Fluxo de Cadastro de Usuário.
+
+## Fluxo de Telas - Redefinição de senha 
+Caso o usuário já possua uma conta mas não saiba sua senha, é permitido que ele altere sua senha por meio do fluxo apresentado nas *Figuras 26 e 27*. 
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Resetar%20Senha1.png)
+Figura 26 – Fluxo de Telas de Redefinição de Senha 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Resetar%20Senha2.png)
+Figura 27 – Fluxo de Telas de Redefinição de Senha 
