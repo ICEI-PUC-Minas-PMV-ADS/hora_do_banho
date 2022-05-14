@@ -1,0 +1,142 @@
+*{
+	box-sizing: border-box;
+}
+
+header {
+	background: #FAEEE7;
+}
+
+h1 img {
+	width: 18.75rem;
+	margin-top: 1.25rem;
+}
+
+.caixa {
+	width: 100%;
+}
+
+nav {
+	position: absolute;
+	top: 3.75rem;
+	right: 6.25rem;
+}
+
+nav li {
+	display: inline-table;
+	margin: 0 0 0 2.5rem;
+}
+
+nav a {
+	color: #325288;
+	font-weight: bold;
+	font-size: 1.37rem;
+	text-decoration: none;
+}
+
+a img {
+	position: absolute;
+	width: 6%;
+	margin-top: -1.87rem;
+	padding: .4375rem;
+}
+
+main {
+	background: #FAEEE7;
+}
+
+#base {
+	background-image: url(cachorrinhos.png);
+	background-repeat: repeat-x;
+}
+
+button {
+	padding: .625rem .625rem;
+	background-color: #325288;
+	margin: 1.875rem 21.875rem;
+	font-size: 1.81rem;
+	height: 6.25rem;
+	width: 40.625rem;
+	border-radius: 3.125rem;
+	border: none;
+	transition: 1s background;
+	cursor: pointer;	
+}
+
+button:hover {
+	background: darkblue;
+}
+
+button a {
+	text-decoration: none;
+}
+
+.texto_botao {
+	color: #FFFFFF;
+}
+
+section {
+	background-color: #325288;
+	padding: 3.125rem 0 3.125rem 0;
+}
+
+section img {
+	float: left;
+	width: 30%;
+	margin-left: 6.25rem;
+}
+
+section h2 {
+	font-weight: bold;
+	line-height: 2;
+}
+
+section h2, section p {
+	color:  #FFFFFF;
+	text-align: center;
+	font-size: 1.5625rem;
+	padding: 0 6.25rem;
+	margin-left: 18.75rem;
+	margin-top: 1.5625rem;
+}
+
+footer {
+	background-color: #D96098;
+	width: 100%;
+	color: #FFFFFF;
+	font-size: .9375rem;
+	clear: left;
+}
+
+footer div {
+	display: inline;
+}
+
+footer ul {
+	padding: 1.875rem .625rem;
+}
+
+footer a {
+	color: #FFFFFF;
+	font-size: 1.25rem;
+	text-decoration: none;
+}
+
+.lista-rodape {
+	line-height: 1.5;
+}
+
+
+@media screen and (min-width: 0) {
+	header {
+		justify-content: center;
+		padding: 0 1rem;
+	}
+}
+
+@media screen and (max-width: 475px) {
+	header div h1 img {
+		width: 5%;
+	}
+}
+
+
