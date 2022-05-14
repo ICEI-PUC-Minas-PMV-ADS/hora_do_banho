@@ -1,185 +1,191 @@
-*{
+/*font importing*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-    margin: 0;
-    padding: 0;
-  
+/* reseting css */
+
+* 
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
 }
 
-.subtitulo {
-  font-family:inherit ;
-  color:  #325288;
-  margin-top: 0%;
-  margin-left: 15%;
-  display: inline;
-  float: right;
-
-
+body
+{
+    background-image: url("DOGCADASTRO.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center ;
+    
 }
 
-.petlover{
-  height: 80%;
-  padding: 5px;
-  display:inline;
-  margin-top: 05%;
-  padding: 0 20px;
-  width: 500px;
-  margin-left: 35%;
-  position:absolute;
-  
-  
-  }
-
-body {
-background-color:#E5E5E5;
-font-family: sans-serif;
-font-size: 1em;
-color:  #325288;
-margin-left: 8%;
-justify-content: left;
-display: inline-block;
-float: left;
-height: 200px;
-
+:root{
+    --roxo: #7a009c;
+    --orange: #d54300;
+    --beige: #FAEEE7;
+    --blue: #325288;
+    --bluezim: #67F1FA;
+    --pink: #edb89f;
+    --grey: #637373;
+    --darkpink: #8c00b2;
 }
 
-imput, select, button {
-  border-radius: 5px;
-  } 
-
-  .campo{
-    margin-bottom: 1rem;
-    margin-top: 20%;
-   
-  }
-
-
-
-.campo input[type="email"], .campo input[type=email], .campo select, .campo textarea {
-  padding: 0.6rem;
-  border: 1px solid #1305a6 ;
-  box-shadow: 6px 6px 6px;
-  display: block;
-  background-color: #325288;
-  border-radius: 5px;
-  width: 30%;
-  margin-left: 05%;
-  margin-top: 20%;
-  padding: 20px 160px;
-  left: 200px;
-  
+.petlover
+{
+    max-width: 1000px;
+    min-width: 300px;
+    max-height: 600px;
+    min-height: 450px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;   
+    background-color: var(--beige);
+    margin-top: 120px;
+    border-radius: 8px;
+    align-self: center;
+    transform: translate(0);
+    background: rgba(255, 176, 137, 0.2);
+    box-shadow: 1px 1px 25px rgb(166, 108, 75);
+    backdrop-filter: blur(4px);
 }
 
-
-
-.campo input[type="text"], .campo input[type="text"], .campo select, .campo textarea{
-  padding: 0.6rem;
-  border: 1px solid #1305a6 ;
-  box-shadow: 6px 6px 6px;
-  display: inline-block;
-  background-color: #325288;
-  border-radius: 5px;
-  width: 30%;
-  margin-top: 5%;
-  margin-left: 05%;
-  padding: 12px 15px;
-  
+.subtitulo
+{
+    font-size: 23px;
+    color: var(--blue);
+    text-align: center;
+    margin: 20px;
 }
 
-.campo input[type="senha"], .campo input[type="senha"], .campo select, .campo textarea{
-  padding: 0.6rem;
-  border: 1px solid #1305a6 ;
-  box-shadow: 6px 6px 6px;
-  display: block;
-  background-color: #708AB6;
-  border-radius: 5px;
-  width: 30%;
-  margin-top: 5%;
-  padding: 12px 70px;
-  margin-left: 15%;
+input
+{
+    color: #fff;
 }
 
-
-.campo select option{
-  padding-right: 1rem;
+input::placeholder
+{
+    color: #fff;
 }
 
-.campo imput:focus, .campo select:focus{
-background: #325288;
+.campo
+{
+    margin-left: 20px;
+    margin-right: 45%;
+}
+
+.campos
+{
+    background-color: var(--blue);
+    border-radius: 5px;
+    border: none;
+    width: 240px;
+    height: 35px;
+    border: none;
+    border-radius: 4px;
+    text-indent: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.camposs
+{
+    background-color: var(--blue);
+    min-width: 240px;
+    border-radius: 5px;
+    border: none;
+    width: 494px;
+    height: 35px;
+    order: none;
+    border-radius: 4px;
+    text-indent: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 
-.botao{
-  font-family: inherit;
-  font-size: 1.5rem;
-  background: #325288;
-  border: 1.3px #325288;
-  margin-bottom: 1.3rem;
-  color:#fffff8;
-  padding:10px 32px;
-  top: 10%;
-  transform :translate(50%, 50%);
-  display:block;
-  text-align: center;
-  float: left;
-  margin-left: 10%;
-  margin-block-end: 20%;
-  margin-bottom: 10%;
-  
-}
-.botao2{
-  font-family: inherit;
-  font-size: 1.5rem;
-  background: #325288;
-  border: 1.3px #325288;
-  margin-bottom: 1.3rem;
-  color:#fffff8;
-  padding:10px 32px;
-  transform :translate(50%, 50%);
-  display:block;
-  text-align: center;
-  float: left;
-  margin-left: 20%;
-  
+.click
+{
+    margin-top: 15px;
+    width: 15px;
 }
 
-.botao:hover {
-  background: #0e0388;
-  box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
-  text-shadow: none;
-  size-adjust: 2.0rem;
-  display: inline-block;
-  left: 500px;
-  cursor: pointer;
-
+.texto
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--blue);
 }
 
-.botao2:hover {
-  background: #0e0388;
-  box-shadow: inset 2px 2px 2px rgb(53, 69, 117);
-  text-shadow: none;
-  size-adjust: 2.0rem;
-  display: inline-block;
-  left: 500px;
-  cursor: pointer;
-
+.botao
+{
+    
+    border: 1px solid var(--blue);
+    background: var(--blue);
+    padding: 8px 40px;
+    cursor: pointer;
+    margin-left: 30px;
+    font-weight: bold;
+    border-radius: 6px;
+    color: #fff;
 }
 
-.botao, select{
-  cursos: pointer;
-
+.botao2
+{
+    
+    margin-top: 5px;
+    border: 1px solid var(--blue);
+    background: var(--blue);
+    padding: 8px 40px;
+    cursor: pointer;
+    margin-left: 30px;
+    font-weight: bold;
+    border-radius: 6px;
+    color: #fff;
 }
 
-.termo {
-  font-family: inherit;
-  margin-top: 100px;
-  margin-left: 20%;
-  font-size: 16px;
-  
-
-
+button:hover
+{
+    transition: background, color 0.5s;
+    background: var(--beige);
+    color: var(--blue);
 }
 
-.click checkbox{
-  border: solid 3px #325288;
-  
+.button
+{
+    margin-top: 30px;
+    margin-left: 57px;
+}
+
+.fotinhaa
+{
+    height: 50px;
+    width: 50px;
+}
+
+.petlover img
+{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    position: absolute;
+    right: 20%;
+    bottom: 2%;
+}
+
+.petlover .frase
+{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 30%;
+    left: 15%;
+    
+}
+
+.termo
+{
+    cursor: pointer;
 }
