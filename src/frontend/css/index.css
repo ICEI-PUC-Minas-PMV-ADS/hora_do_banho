@@ -99,6 +99,15 @@ section h2, section p {
 	margin-top: 1.5625rem;
 }
 
+.secao2 {
+	background-color: #325288;
+	width: 58.75rem;
+	height: 35rem;
+	margin: 5rem 0 5rem 13rem;
+	padding: 10rem 10rem 10rem 10rem;
+	border: black 1px solid;
+}
+
 footer {
 	background-color: #D96098;
 	width: 100%;
