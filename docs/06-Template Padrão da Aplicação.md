@@ -57,7 +57,7 @@ Figura 24 – Modal Login
 ### Fluxo de Telas - Cadastro de Usuário 
 O fluxo de *Cadastro de Usuário* ilustrado na *Figura 25* permite ao usuário se cadastrar na aplicação caso este ainda não possua uma conta, seguindo um formulário solicitando informações obrigatórias de acordo com o tipo de perfil a ser criado.
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Pet%20Lover.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Cadastro.jpeg)
 Figura 25 – Fluxo de Cadastro de Usuário.
 
 ## Fluxo de Telas - Redefinição de senha 
