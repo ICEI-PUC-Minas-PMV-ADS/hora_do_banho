@@ -29,9 +29,53 @@ Figura 20 – Tipografia e Fontes utilizadas
 
 ### Componentes
 Dentre nossos principais componentes personalizados estão os botões e inputs, conforme pode ser visto na Figura 21:
+
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Bot%C3%B5es.png)
 Figura 21 – Principais componentes visuais da aplicação
 
 ### Ícones
+
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Icons.png)
 Figura 22 – Iconografia
+
+
+## Aplicação nas telas e fluxos:
+
+### Tela - LandingPage / Login 
+
+A tela inicial ou LandingPage apresentada na *Figura 23* permite visualizar depoimentos e informações sobre os serviços e ao clicar no icon entrar abre um modal conforme explicado no tópico *Modal - Login* que segue. 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Home.png)
+Figura 23 – LandingPage
+
+### Modal - Login 
+O modal que se abre ao clicar no icon entrar no canto superior direito do cabeçalho permite ao usuário fazer login na aplicação, preenchendo suas credenciais conforme orientado. Além disso, o usuário pode ser direcionado para se cadastrar na opção “ Ainda não tem uma conta?” e para redefinir a senha da conta na opção "Esqueci a senha". O modal em questão pode ser visualizado conforme *Figura 24*.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Login.png)
+Figura 24 – Modal Login
+
+### Fluxo de Telas - Cadastro de Usuário 
+O fluxo de *Cadastro de Usuário* ilustrado na *Figura 25* permite ao usuário se cadastrar na aplicação caso este ainda não possua uma conta, seguindo um formulário solicitando informações obrigatórias de acordo com o tipo de perfil a ser criado.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Cadastro.jpeg)
+Figura 25 – Fluxo de Cadastro de Usuário.
+
+## Fluxo de Telas - Redefinição de senha 
+Caso o usuário já possua uma conta mas não saiba sua senha, é permitido que ele altere sua senha por meio do fluxo apresentado nas *Figuras 26 e 27*. 
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Resetar%20Senha1.png)
+Figura 26 – Fluxo de Telas de Redefinição de Senha 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Resetar%20Senha2.png)
+Figura 27 – Fluxo de Telas de Redefinição de Senha 
+
+### Tela - Homepage - Cliente
+Depois de fazer o login na aplicação, o usuário é redirecionado para uma homepage que possui a estrutura semelhante da LandingPage, mas agora logado, ele possui a opção de selecionar uma data no calendário e através de um dropdown selecionar um horario, um serviço e confirmar um agendamento nos horários disponiveis. Além disso, um formulário com suas solicitações de agendamento é listado com horario, nome do petshop, serviço solicitado, status do agendamento, é possivel inserir uma observação e fazer logout. A *Homepage-cliente* é ilustrada detalhadamente na *Figura 28*.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Agenda%20Cliente.png)
+Figura 28 – Tela Homepage-Cliente
+
+### Tela - Homepage - PetShop
+Depois de fazer o login na aplicação, o usuário é redirecionado para uma homepage que possui a estrutura semelhante da LandingPage, mas agora logado, ele possui a opção de selecionar uma data no calendário e no formulário inserir os horarios disponiveis. Os agendamentos são listado com horario, nome do cliente, serviço solicitado, status do agendamento, é possivel visualizar as observação, gerar relatório e fazer logout. A *Homepage-PetShop* é ilustrada detalhadamente na *Figura 29*.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Agenda%20Petshop.png)
+Figura 29 – Tela Homepage-PetShop

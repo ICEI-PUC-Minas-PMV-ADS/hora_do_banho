@@ -1,0 +1,179 @@
+*{
+	box-sizing: border-box;
+}
+
+header {
+	background: #FAEEE7;
+}
+
+h1 img {
+	width: 18.75rem;
+	margin-top: 1.25rem;
+}
+
+.caixa {
+	width: 100%;
+}
+
+nav {
+	position: absolute;
+	top: 3.75rem;
+	right: 6.25rem;
+}
+
+nav li {
+	display: inline-table;
+	margin: 0 0 0 2.5rem;
+}
+
+nav a {
+	color: #325288;
+	font-weight: bold;
+	font-size: 1.37rem;
+	text-decoration: none;
+}
+
+a img {
+	position: absolute;
+	width: 6%;
+	margin-top: -1.87rem;
+	padding: .4375rem;
+}
+
+main {
+	background: #FAEEE7;
+}
+
+#base {
+	background-image: url(cachorrinhos.png);
+	background-repeat: repeat-x;
+}
+
+button {
+	display: block;
+	background-color: #325288;
+	margin: 1.875rem 21.875rem;
+	font-size: 1.81rem;
+	height: 6.25rem;
+	width: 40.625rem;
+	max-width: 40.625rem;
+	box-sizing: border-box;
+	padding: .625rem .625rem;
+	border-radius: 3.125rem;
+	border: none;
+	transition: 1s background;
+	cursor: pointer;	
+}
+
+button:hover {
+	background: darkblue;
+}
+
+button a {
+	text-decoration: none;
+}
+
+.texto_botao {
+	color: #FFFFFF;
+}
+
+.secao1 {
+	background-color: #325288;
+	font-size: 1.5625rem;
+	height: 20rem;
+}
+
+.img_secao1 {
+	float: left;
+	width: 27.35rem;
+}
+
+.titulo_secao1 {
+	font-weight: bold;
+	line-height: 2;
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 1rem;
+}
+
+.texto_secao1 {
+	color: #FFFFFF;
+	margin-left: 30rem;
+	text-align: center;
+	padding: 3rem 3rem 3rem 3rem;
+}
+
+.secao2 {
+	background-color: #325288;
+	width: 70rem;
+	height: 35rem;
+	margin: 5rem 0 5rem 8rem;
+	padding: 3rem 3rem 3rem 3rem;
+	border-radius: 2rem;
+}
+
+.titulo_secao2 {
+	color: #FFFFFF;
+	font-size: 2rem;
+}
+
+.texto1_secao2, .texto2_secao2 {
+	color: #FFFFFF;
+	font-size: 1.1rem;
+	text-align: center;
+}
+
+.img1_secao2 {
+	float: left;
+	width: 11rem;
+	border: red 1px solid
+}
+
+.img2_secao2 {
+	float: rigt;
+	width: 9.5rem;
+	border: black 1px solid;
+}
+
+
+footer {
+	background-color: #D96098;
+	width: 100%;
+	color: #FFFFFF;
+	font-size: .9375rem;
+	clear: left;
+}
+
+footer div {
+	display: inline;
+}
+
+footer ul {
+	padding: 1.875rem .625rem;
+}
+
+footer a {
+	color: #FFFFFF;
+	font-size: 1.25rem;
+	text-decoration: none;
+}
+
+.lista-rodape {
+	line-height: 1.5;
+}
+
+
+@media screen and (min-width: 0) {
+	header {
+		justify-content: center;
+		padding: 0 1rem;
+	}
+}
+
+@media screen and (max-width: 475px) {
+	header div h1 img {
+		width: 5%;
+	}
+}
+
+
