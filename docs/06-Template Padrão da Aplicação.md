@@ -67,3 +67,15 @@ Figura 26 – Fluxo de Telas de Redefinição de Senha
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Resetar%20Senha2.png)
 Figura 27 – Fluxo de Telas de Redefinição de Senha 
+
+### Tela - Homepage - Cliente
+Depois de fazer o login na aplicação, o usuário é redirecionado para uma homepage que possui a estrutura semelhante da LandingPage, mas agora logado, ele possui a opção de selecionar uma data no calendário e através de um dropdown selecionar um horario, um serviço e confirmar um agendamento nos horários disponiveis. Além disso, um formulário com suas solicitações de agendamento é listado com horario, nome do petshop, serviço solicitado, status do agendamento, é possivel inserir uma observação e fazer logout. A *Homepage-cliente* é ilustrada detalhadamente na *Figura 28*.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Agenda%20Cliente.png)
+Figura 28 – Tela Homepage-Cliente
+
+### Tela - Homepage - PetShop
+Depois de fazer o login na aplicação, o usuário é redirecionado para uma homepage que possui a estrutura semelhante da LandingPage, mas agora logado, ele possui a opção de selecionar uma data no calendário e no formulário inserir os horarios disponiveis. Os agendamentos são listado com horario, nome do cliente, serviço solicitado, status do agendamento, é possivel visualizar as observação, gerar relatório e fazer logout. A *Homepage-PetShop* é ilustrada detalhadamente na *Figura 29*.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Agenda%20Petshop.png)
+Figura 29 – Tela Homepage-PetShop
