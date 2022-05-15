@@ -7,7 +7,7 @@ header {
 }
 
 h1 img {
-	width: 18.75rem;
+	width: 20vw;
 	margin-top: 1.25rem;
 }
 
@@ -47,18 +47,17 @@ main {
 #base {
 	background-image: url(cachorrinhos.png);
 	background-repeat: repeat-x;
+	border-bottom: #008b8b 0.2rem solid;
 }
 
 button {
 	display: block;
 	background-color: #325288;
-	margin: 1.875rem 21.875rem;
+	margin: 1.875rem 24vw;
 	font-size: 1.81rem;
-	height: 6.25rem;
-	width: 40.625rem;
-	max-width: 40.625rem;
+	width: 49vw;
 	box-sizing: border-box;
-	padding: .625rem .625rem;
+	padding: 3vw 3vh;
 	border-radius: 3.125rem;
 	border: none;
 	transition: 1s background;
@@ -80,12 +79,14 @@ button a {
 .secao1 {
 	background-color: #325288;
 	font-size: 1.5625rem;
-	height: 20rem;
+	width: 98.78vw;
+	height: 49.3vh;
+	max-height: 23rem;
 }
 
 .img_secao1 {
 	float: left;
-	width: 27.35rem;
+	width: 32.1vw;
 }
 
 .titulo_secao1 {
@@ -98,16 +99,16 @@ button a {
 
 .texto_secao1 {
 	color: #FFFFFF;
-	margin-left: 30rem;
+	margin-left: 30vw;
 	text-align: center;
-	padding: 3rem 3rem 3rem 3rem;
+	padding: 3vw 3vw 3vw 3vw;
 }
 
 .secao2 {
 	background-color: #325288;
-	width: 70rem;
+	width: 70vw;
 	height: 35rem;
-	margin: 5rem 0 5rem 8rem;
+	margin: 5rem 0 5rem 11rem;
 	padding: 3rem 3rem 3rem 3rem;
 	border-radius: 2rem;
 }
@@ -120,21 +121,28 @@ button a {
 .texto1_secao2, .texto2_secao2 {
 	color: #FFFFFF;
 	font-size: 1.1rem;
-	text-align: center;
+	text-align: justify;
+	padding: 5rem 5rem 5rem 5rem;
+	background-repeat: no-repeat;
+	background-position: top 1.25rem left 2.5rem;
 }
 
-.img1_secao2 {
+.texto1_secao2 {
+	background-image: url(../assets/img/Foto\ Autor\ 1.svg);
+	width: 30vw;
 	float: left;
-	width: 11rem;
-	border: red 1px solid
-}
-
-.img2_secao2 {
-	float: rigt;
-	width: 9.5rem;
+	box-sizing: border-box;
 	border: black 1px solid;
 }
 
+.texto2_secao2 {
+	background-image: url(../assets/img/fotoAutor2.svg);
+	width: 30vw;
+	margin-left: 30vw;
+	box-sizing: border-box;
+	border: pink 1px solid;
+
+}
 
 footer {
 	background-color: #D96098;
