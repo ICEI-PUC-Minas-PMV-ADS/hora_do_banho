@@ -17,6 +17,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Documentos do Projeto| GitHubDocs | Projeto Hora do Banho|
 |Projeto de Interface e Wireframes| Figma| Figma|Whimsical
 |Gerenciamento do Projeto| GitHub| Hora do Banho (github.com)|
+|Hospedagem no Azure|Azure| https://horadobanho20220513072405.azurewebsites.net/Login |
 
 ## Controle de Versão
 
