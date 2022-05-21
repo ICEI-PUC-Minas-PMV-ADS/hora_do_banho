@@ -98,6 +98,7 @@ As ferramentas empregadas no projeto são:
 <p>Ferramentas para criação de diagramas: LucidApp,Whimsical</p>
 <p>Ferramentas de desenho de tela (wireframing): Whimsical</p>
 <p>Ferramentas de desenho de tela (wireframing): Figma</p>
+<p>Plataforma de execução de aplicativos (nuvem): Azure</p>
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão e permite depuração na máquina local. A ferramenta de comunicação utilizada foi recomendada pela Universidade e é bem completa para gestão de equipes e viabiliza chamadas de áudio, vídeo e conversa por chat. Para criar diagramas utilizamos as ferramentas mencionadas porque cada uma delas capta melhor algumas das necessidades da nossa solução. Por fim, a ferramenta escolhida para o desenvolvimento dos wireframes e interface de usuário foi ecolhida por permitir a edição colaborativa, além de ter funcionalidades voltadas especificamente para a natureza deste trabalho.
  
