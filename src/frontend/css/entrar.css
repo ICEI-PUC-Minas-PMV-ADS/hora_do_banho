@@ -24,7 +24,7 @@ body{
   width: 80%;
   height: 200px;
   font-family: inherit;
-  background-image: url(/assets/img/gatoReset.svg);
+  background-image: url(../assets/img/gatoReset.svg);
   background-repeat: no-repeat;
   background-color: #a9f3f0;
   background-size:50% 100%;
@@ -129,12 +129,11 @@ button:hover{
 
 .img{
   margin-top:30px;
-  width: 180px;
-  height: 40px;
+  width: 13vw;
   display: block;
   position: absolute;
   top:30px;
-  margin-left: 6%;
+  margin-left: 2%;
   
 
 }
