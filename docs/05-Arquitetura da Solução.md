@@ -27,3 +27,9 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/blob/main/docs/img/Esquema%20Relacional.png">
 
 _Figura 18 - Esquema Relacional_
+
+## Hospedagem 
+
+O site utiliza a plataforma do Azure como ambiente de hospedagem do site do projeto. O
+site é mantido no ambiente da URL:
+https://horadobanho20220513072405.azurewebsites.net/
