@@ -1,0 +1,15 @@
+message: Please cite this software using these metadata.
+title: Hora do Banho
+authors:
+  - family-names: Judá de Oliveira
+    given-names: Gabriel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Nardin
+    given-names: Luciana
+keywords:
+  - Hora do banho
+  - petshop
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/hora_do_banho/new/main/src
+version: 1.0.0
+date-released: 2024-06-20
